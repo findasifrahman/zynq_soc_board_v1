@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "07fd37b6-3453-4061-8f23-99f7128c91e8")
+	(uuid "49635097-be28-4e03-97ca-724c34d73ac9")
 	(paper "A4")
 	(title_block
 		(date "2024-11-30")
@@ -236,6 +236,248 @@
 						)
 					)
 					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Schematic-Lib-PhilsLab:CON-SOCJ-2155"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -1.27 1.27 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+				)
+			)
+			(property "Value" "CON-SOCJ-2155"
+				(at -1.27 -3.81 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "CON-SOCJ-2155"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "DC Barrell Jack 2.1mm 30V 2.5A THT"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Gravitech"
+				(at -1.27 -6.35 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part Number" "CON-SOCJ-2155"
+				(at -1.27 -6.35 0)
+				(effects
+					(font
+						(size 1.8288 1.8288)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*CON-SOCJ-2155*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CON-SOCJ-2155_1_0"
+				(polyline
+					(pts
+						(xy 10.16 -5.08) (xy 12.7 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 12.7 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 5.08) (xy 10.16 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 5.08 0) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -2.54) (xy 6.35 -2.54) (xy 5.08 -5.08) (xy 3.81 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 -5.08) (xy 2.54 -5.08) (xy 0 -2.54) (xy -2.54 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 7.62) (xy 10.16 2.54) (xy 7.62 2.54) (xy 7.62 7.62) (xy 10.16 7.62)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 6.858) (xy -6.35 6.858) (xy -7.62 5.588) (xy -7.62 4.318) (xy -6.35 3.048) (xy 7.62 3.048)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 12.7 10.16)
+					(end -10.16 -7.62)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 15.24 5.08 180)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 -5.08 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 0 180)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -921,7 +1163,7 @@
 	)
 	(symbol
 		(lib_id "Schematic-Lib-PhilsLab:LS1205EVD33")
-		(at 50.8 52.07 0)
+		(at 68.58 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -930,7 +1172,7 @@
 		(fields_autoplaced yes)
 		(uuid "2c06d204-d152-4637-a86b-3b3359c86d6d")
 		(property "Reference" "U1"
-			(at 50.8 27.94 0)
+			(at 68.58 25.4 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -938,7 +1180,7 @@
 			)
 		)
 		(property "Value" "LS1205EVD33"
-			(at 50.8 31.75 0)
+			(at 68.58 29.21 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -946,7 +1188,7 @@
 			)
 		)
 		(property "Footprint" "Footprint-Lib-PhilsLab:DFN3x3_10L"
-			(at 50.8 52.07 0)
+			(at 68.58 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -955,7 +1197,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 52.07 0)
+			(at 68.58 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -964,7 +1206,7 @@
 			)
 		)
 		(property "Description" "18V, 5A eFuse with Programmable Current Limit and Output Voltage Clamp"
-			(at 50.8 52.07 0)
+			(at 68.58 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -973,7 +1215,7 @@
 			)
 		)
 		(property "Manufacturer" "Littelfuse"
-			(at 37.592 75.438 0)
+			(at 55.372 72.898 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -983,7 +1225,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "LS1205EVD33"
-			(at 37.592 75.438 0)
+			(at 55.372 72.898 0)
 			(effects
 				(font
 					(size 1.8288 1.8288)
@@ -992,8 +1234,8 @@
 				(hide yes)
 			)
 		)
-		(property "LOSC" " C6653278"
-			(at 50.8 52.07 0)
+		(property "LCSC" " C6653278"
+			(at 68.58 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1038,6 +1280,106 @@
 			(project ""
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/e904f396-2c60-426f-aecf-389e552b5c3a"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Schematic-Lib-PhilsLab:CON-SOCJ-2155")
+		(at 25.4 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a49ba601-d464-4ffc-8fa4-bb708918edb2")
+		(property "Reference" "J1"
+			(at 26.7271 27.94 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Value" "CON-SOCJ-2155"
+			(at 26.7271 31.75 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:DC-IN-TH_DC005-T20"
+			(at 25.4 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "DC Barrell Jack 2.1mm 30V 2.5A THT"
+			(at 25.4 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Gravitech"
+			(at 24.13 50.8 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CON-SOCJ-2155"
+			(at 24.13 50.8 0)
+			(effects
+				(font
+					(size 1.8288 1.8288)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C111567"
+			(at 25.4 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9be56fe0-3cc5-4e05-b936-92eae45ef121")
+		)
+		(pin "2"
+			(uuid "7e4a0643-8ffc-4e4b-93d7-042208d14209")
+		)
+		(pin "3"
+			(uuid "e9335b8e-2c9c-46a6-83c1-6516faa4ba8d")
+		)
+		(instances
+			(project ""
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/e904f396-2c60-426f-aecf-389e552b5c3a"
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -1118,7 +1460,7 @@
 				(hide yes)
 			)
 		)
-		(property "LOSC" "C213437"
+		(property "LCSC" "C213437"
 			(at 54.61 109.22 0)
 			(effects
 				(font
