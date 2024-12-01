@@ -5404,6 +5404,16 @@
 	)
 	(wire
 		(pts
+			(xy 293.37 201.93) (xy 293.37 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7b1ef61-9957-454f-b887-4324082fb58d")
+	)
+	(wire
+		(pts
 			(xy 180.34 50.8) (xy 195.58 50.8)
 		)
 		(stroke
@@ -6506,7 +6516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 288.29 152.4 0)
 			(effects
 				(font
@@ -6648,7 +6658,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25752"
+		(property "LCSC" "C25752"
 			(at 182.88 153.67 0)
 			(effects
 				(font
@@ -6733,7 +6743,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25752"
+		(property "LCSC" "C25752"
 			(at 182.88 93.98 0)
 			(effects
 				(font
@@ -6980,7 +6990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 292.1 35.56 0)
 			(effects
 				(font
@@ -7067,7 +7077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 287.02 207.01 0)
 			(effects
 				(font
@@ -8063,7 +8073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 288.29 92.71 0)
 			(effects
 				(font
@@ -8433,7 +8443,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C23733"
+		(property "LCSC" "C23733"
 			(at 80.01 104.14 0)
 			(effects
 				(font
@@ -8442,7 +8452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL05A475MP5NRNC"
+		(property "Manufacturer Part Number" "CL05A475MP5NRNC"
 			(at 80.01 104.14 0)
 			(effects
 				(font
@@ -8518,7 +8528,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25752"
+		(property "LCSC" "C25752"
 			(at 203.2 157.48 0)
 			(effects
 				(font
@@ -8881,7 +8891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 187.96 208.28 0)
 			(effects
 				(font
@@ -9053,7 +9063,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 115.57 43.18 0)
 			(effects
 				(font
@@ -9370,7 +9380,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25752"
+		(property "LCSC" "C25752"
 			(at 180.34 36.83 0)
 			(effects
 				(font
@@ -9542,7 +9552,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25900"
+		(property "LCSC" "C25900"
 			(at 105.41 68.58 0)
 			(effects
 				(font
@@ -9723,7 +9733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 189.23 93.98 0)
 			(effects
 				(font
@@ -9907,7 +9917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " 0402B102K500NT"
+		(property "Manufacturer Part Number" "0402B102K500NT"
 			(at 38.1 175.26 0)
 			(effects
 				(font
@@ -9983,7 +9993,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25752"
+		(property "LCSC" "C25752"
 			(at 181.61 208.28 0)
 			(effects
 				(font
@@ -10068,7 +10078,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25752"
+		(property "LCSC" "C25752"
 			(at 171.45 222.25 0)
 			(effects
 				(font
@@ -10478,7 +10488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 24.13 127 0)
 			(effects
 				(font
@@ -11008,7 +11018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL05B104KO5NNNC"
+		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
 			(at 182.88 172.72 0)
 			(effects
 				(font
@@ -11258,7 +11268,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C23733"
+		(property "LCSC" "C23733"
 			(at 54.61 134.62 0)
 			(effects
 				(font
@@ -11267,7 +11277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL05A475MP5NRNC"
+		(property "Manufacturer Part Number" "CL05A475MP5NRNC"
 			(at 54.61 134.62 0)
 			(effects
 				(font
@@ -11506,7 +11516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 189.23 153.67 0)
 			(effects
 				(font
@@ -11582,7 +11592,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C36777"
+		(property "LCSC" "C36777"
 			(at 265.43 153.67 0)
 			(effects
 				(font
@@ -11591,7 +11601,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " 0402WGF1243TCE"
+		(property "Manufacturer Part Number" "0402WGF1243TCE"
 			(at 265.43 153.67 0)
 			(effects
 				(font
@@ -11763,7 +11773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 294.64 92.71 0)
 			(effects
 				(font
@@ -11950,7 +11960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 293.37 207.01 0)
 			(effects
 				(font
@@ -12028,7 +12038,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C26083"
+		(property "LCSC" "C26083"
 			(at 38.1 166.37 0)
 			(effects
 				(font
@@ -12037,7 +12047,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " 0402WGF1004TCE"
+		(property "Manufacturer Part Number" "0402WGF1004TCE"
 			(at 38.1 166.37 0)
 			(effects
 				(font
@@ -12231,7 +12241,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25741"
+		(property "LCSC" "C25741"
 			(at 63.5 43.18 0)
 			(effects
 				(font
@@ -12240,7 +12250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " 0402WGF1003TCE"
+		(property "Manufacturer Part Number" "0402WGF1003TCE"
 			(at 63.5 43.18 0)
 			(effects
 				(font
@@ -12327,7 +12337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL05B104KO5NNNC"
+		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
 			(at 68.58 68.58 0)
 			(effects
 				(font
@@ -12353,7 +12363,7 @@
 	)
 	(symbol
 		(lib_id "power:+1V0")
-		(at 293.37 203.2 0)
+		(at 293.37 201.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12362,7 +12372,7 @@
 		(fields_autoplaced yes)
 		(uuid "b4a079e3-0268-4388-90a4-c6488a3d9727")
 		(property "Reference" "#PWR026"
-			(at 293.37 207.01 0)
+			(at 293.37 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12371,7 +12381,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 293.37 198.12 0)
+			(at 293.37 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12379,7 +12389,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 293.37 203.2 0)
+			(at 293.37 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12388,7 +12398,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 203.2 0)
+			(at 293.37 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12397,7 +12407,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V0\""
-			(at 293.37 203.2 0)
+			(at 293.37 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12480,7 +12490,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 294.64 152.4 0)
 			(effects
 				(font
@@ -12633,7 +12643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL05B104KO5NNNC"
+		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
 			(at 182.88 113.03 0)
 			(effects
 				(font
@@ -12711,7 +12721,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C23733"
+		(property "LCSC" "C23733"
 			(at 91.44 134.62 0)
 			(effects
 				(font
@@ -12720,7 +12730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL05A475MP5NRNC"
+		(property "Manufacturer Part Number" "CL05A475MP5NRNC"
 			(at 91.44 134.62 0)
 			(effects
 				(font
@@ -13199,7 +13209,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25752"
+		(property "LCSC" "C25752"
 			(at 203.2 97.79 0)
 			(effects
 				(font
@@ -13295,7 +13305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL05B104KO5NNNC"
+		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
 			(at 63.5 68.58 0)
 			(effects
 				(font
@@ -13382,7 +13392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 285.75 35.56 0)
 			(effects
 				(font
@@ -13525,7 +13535,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C23733"
+		(property "LCSC" "C23733"
 			(at 181.61 227.33 0)
 			(effects
 				(font
@@ -13534,7 +13544,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL05A475MP5NRNC"
+		(property "Manufacturer Part Number" "CL05A475MP5NRNC"
 			(at 181.61 227.33 0)
 			(effects
 				(font
@@ -13621,7 +13631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 186.69 36.83 0)
 			(effects
 				(font
@@ -13708,7 +13718,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL05B104KO5NNNC"
+		(property "Manufacturer Part Number" "CL05B104KO5NNNC"
 			(at 180.34 55.88 0)
 			(effects
 				(font
@@ -13795,7 +13805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 101.6 118.11 0)
 			(effects
 				(font
@@ -14152,7 +14162,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL21A226MAQNNNE"
+		(property "Manufacturer Part Number" "CL21A226MAQNNNE"
 			(at 55.88 43.18 0)
 			(effects
 				(font
@@ -14230,7 +14240,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C23733"
+		(property "LCSC" "C23733"
 			(at 107.95 118.11 0)
 			(effects
 				(font
@@ -14239,7 +14249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " CL05A475MP5NRNC"
+		(property "Manufacturer Part Number" "CL05A475MP5NRNC"
 			(at 107.95 118.11 0)
 			(effects
 				(font
@@ -14315,7 +14325,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25752"
+		(property "LCSC" "C25752"
 			(at 200.66 40.64 0)
 			(effects
 				(font
