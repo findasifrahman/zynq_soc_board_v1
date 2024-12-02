@@ -8710,7 +8710,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25752"
+		(property "LCSC" "C25752"
 			(at 201.93 212.09 0)
 			(effects
 				(font
@@ -11420,7 +11420,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25752"
+		(property "LCSC" "C25752"
 			(at 107.95 54.61 0)
 			(effects
 				(font
@@ -13881,7 +13881,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25752"
+		(property "LCSC" "C25752"
 			(at 36.83 107.95 0)
 			(effects
 				(font
@@ -14628,7 +14628,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C11702"
+		(property "LCSC" "C11702"
 			(at 49.53 129.54 0)
 			(effects
 				(font
@@ -14637,7 +14637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " 0402WGF1001TCE"
+		(property "Manufacturer Part Number" "0402WGF1001TCE"
 			(at 49.53 129.54 0)
 			(effects
 				(font
@@ -14781,7 +14781,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C25741"
+		(property "LCSC" "C25741"
 			(at 36.83 127 0)
 			(effects
 				(font
@@ -14790,7 +14790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" " 0402WGF1003TCE"
+		(property "Manufacturer Part Number" "0402WGF1003TCE"
 			(at 36.83 127 0)
 			(effects
 				(font
