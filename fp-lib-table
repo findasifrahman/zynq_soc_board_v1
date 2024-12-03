@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "Footprint-Lib-PhilsLab")(type "Altium Designer")(uri "${KIPRJMOD}/library/Footprint-Lib-PhilsLab.PcbLib")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/library/footprints.pretty")(options "")(descr ""))
+  (lib (name "MTFC8GAKAJCN-4M_IT")(type "KiCad")(uri "${KIPRJMOD}/library/MTFC8GAKAJCN-4M_IT")(options "")(descr ""))
+  (lib (name "DDR")(type "KiCad")(uri "${KIPRJMOD}/library/DDR")(options "")(descr ""))
+  (lib (name "MT41K256M16TW-107-alt")(type "KiCad")(uri "${KIPRJMOD}/library/MT41K256M16TW-107-alt/MT41K256M16TW-107-alt.pretty/")(options "")(descr ""))
 )

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MT41K256M16TW-107_IT_P
+D DRAM Chip DDR3L SDRAM 4Gbit 256Mx16 1.35V 96-Pin FBGA T/R/Tray
+K
+F https://datasheet.octopart.com/MT41K256M16TW-107-IT%3AP-Micron-datasheet-134530703.pdf
+$ENDCMP
+#
+#End Doc Library

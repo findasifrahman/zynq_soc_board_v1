@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "Schematic-Lib-PhilsLab")(type "KiCad")(uri "${KIPRJMOD}/library/Schematic-Lib-PhilsLab.kicad_sym")(options "")(descr ""))
   (lib (name "2024-11-30_12-42-37")(type "KiCad")(uri "${KIPRJMOD}/library/2024-11-30_12-42-37.kicad_sym")(options "")(descr ""))
+  (lib (name "MTFC8GAKAJCN-4M IT")(type "KiCad")(uri "C:/Users/asif/Desktop/zynq_soc_board_v1/zynq_soc_board_v1/library/MTFC8GAKAJCN-4M_IT/MTFC8GAKAJCN-4M_IT.kicad_sym")(options "")(descr ""))
+  (lib (name "MT41K256M16TW-107")(type "KiCad")(uri "${KIPRJMOD}/library/DDR/MT41K256M16TW-107_IT_P.kicad_sym")(options "")(descr ""))
+  (lib (name "MT41K256M16TW-107-alt")(type "KiCad")(uri "${KIPRJMOD}/library/MT41K256M16TW-107-alt/MT41K256M16TW-107-alt.kicad_sym")(options "")(descr ""))
 )

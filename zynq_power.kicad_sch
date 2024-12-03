@@ -13239,9 +13239,9 @@
 		(fields_autoplaced yes)
 		(effects
 			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
+				(size 1.016 1.016)
+				(thickness 0.127)
+				(color 82 86 255 1)
 			)
 			(justify left bottom)
 		)
