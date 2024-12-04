@@ -732,6 +732,14 @@
     [
       "ae319a65-0a6c-4d0b-b442-f6b6cf9cba1c",
       "ethernet_gigabit"
+    ],
+    [
+      "9a41251a-1e05-4c4b-8495-bdec66c692fb",
+      "USB-2-HS"
+    ],
+    [
+      "e7970928-6ac8-45a9-9cbb-8e59e3dd9d14",
+      "Mezzanine_Connectors"
     ]
   ],
   "text_variables": {}

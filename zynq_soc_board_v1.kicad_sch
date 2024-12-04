@@ -87,6 +87,44 @@
 		)
 	)
 	(sheet
+		(at 207.01 142.24)
+		(size 69.85 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9a41251a-1e05-4c4b-8495-bdec66c692fb")
+		(property "Sheetname" "USB-2-HS"
+			(at 207.01 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB-2-HS.kicad_sch"
+			(at 207.01 160.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 209.55 81.28)
 		(size 69.85 45.72)
 		(fields_autoplaced yes)
@@ -234,6 +272,44 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49"
 					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.65 172.72)
+		(size 49.53 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e7970928-6ac8-45a9-9cbb-8e59e3dd9d14")
+		(property "Sheetname" "Mezzanine_Connectors"
+			(at 120.65 172.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Mezzanine Connectors.kicad_sch"
+			(at 120.65 192.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49"
+					(page "10")
 				)
 			)
 		)

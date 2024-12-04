@@ -19054,7 +19054,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad_foorprint:C0402"
 			(at 45.212 34.29 90)
 			(effects
 				(font
@@ -29173,7 +29173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad_foorprint:C0402"
 			(at 49.022 34.29 90)
 			(effects
 				(font
@@ -29521,7 +29521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 300.482 116.84 90)
 			(effects
 				(font
@@ -29785,7 +29785,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9bb26696-8636-4df8-a6ad-90c3d0aeb3e1")
-		(property "Reference" "C5"
+		(property "Reference" "C316"
 			(at 292.1 140.462 0)
 			(effects
 				(font
@@ -29857,7 +29857,7 @@
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
-					(reference "C5")
+					(reference "C316")
 					(unit 1)
 				)
 			)
@@ -30355,7 +30355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 306.832 116.84 90)
 			(effects
 				(font
@@ -34044,7 +34044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 52.578 59.69 90)
 			(effects
 				(font
