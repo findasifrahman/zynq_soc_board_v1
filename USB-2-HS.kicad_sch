@@ -2,8 +2,12 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "2d257710-0da5-4c6e-a373-f9693a9fdb0a")
+	(uuid "195e3005-cf4a-42c6-8abe-b0efd877df20")
 	(paper "A4")
+	(title_block
+		(title "USB 2.0 High-Speed (OTG)")
+		(date "2024-12-05")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)

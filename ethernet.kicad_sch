@@ -4,6 +4,10 @@
 	(generator_version "8.0")
 	(uuid "6141158a-2147-455c-b1e7-5c97e0ac4efa")
 	(paper "A4")
+	(title_block
+		(title "(text \"GIGABIT ETHERNET\" (exclude_from_sim no)")
+		(date "2024-12-05")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers hide)
@@ -2846,6 +2850,16 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 116.84) (xy 107.95 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21e18bb1-efda-47bc-98cb-f92affc42d90")
+	)
+	(wire
+		(pts
 			(xy 276.86 71.12) (xy 276.86 111.76)
 		)
 		(stroke
@@ -3846,16 +3860,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 116.84) (xy 107.95 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dac7d309-4a6d-49ed-bd41-2582849cbf00")
-	)
-	(wire
-		(pts
 			(xy 21.59 113.03) (xy 21.59 114.3)
 		)
 		(stroke
@@ -4283,18 +4287,6 @@
 		)
 		(uuid "57bd8d9f-894e-4aca-9e45-650fc5b2b28f")
 	)
-	(label "ETH_NRST_+3V3"
-		(at 85.09 116.84 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-				(thickness 0.127)
-			)
-			(justify left bottom)
-		)
-		(uuid "5c60f360-69b8-4109-a08b-9b6465301ffe")
-	)
 	(label "ETH_LED_GR_K"
 		(at 243.84 111.76 0)
 		(fields_autoplaced yes)
@@ -4552,6 +4544,30 @@
 			(justify left bottom)
 		)
 		(uuid "fb7ff55f-1696-44a3-9102-69ccc1620872")
+	)
+	(global_label "ETH_NRST_+3V3"
+		(shape input)
+		(at 82.55 116.84 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "beb2b900-8da0-422f-ab90-6994d54400b3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 67.3351 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")

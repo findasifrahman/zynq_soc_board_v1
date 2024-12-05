@@ -6058,6 +6058,18 @@
 		)
 		(uuid "a7f362ef-9249-4794-854b-132edb78da67")
 	)
+	(text "CHASIS GND CONNECTION"
+		(exclude_from_sim no)
+		(at 45.72 161.036 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "c6074cf0-2c2d-45f8-be1b-1ede67b0ea34")
+	)
 	(label "SW_1V35"
 		(at 248.92 147.32 0)
 		(fields_autoplaced yes)
@@ -6135,19 +6147,6 @@
 			(justify left bottom)
 		)
 		(uuid "395d4345-adbb-46c1-bead-a963030d06d2")
-	)
-	(label "CHASIS GND CONNECTION"
-		(at 24.13 161.29 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "3c017879-6fb3-4789-9405-9a382a0331c3")
 	)
 	(label "FB_1V0"
 		(at 247.65 40.64 0)
