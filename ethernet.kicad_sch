@@ -2680,7 +2680,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 96.52) (xy 107.95 96.52)
+			(xy 99.06 96.52) (xy 107.95 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2770,7 +2770,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 93.98) (xy 107.95 93.98)
+			(xy 99.06 93.98) (xy 107.95 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3120,7 +3120,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 88.9) (xy 107.95 88.9)
+			(xy 99.06 88.9) (xy 107.95 88.9)
 		)
 		(stroke
 			(width 0)
@@ -3200,7 +3200,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 86.36) (xy 107.95 86.36)
+			(xy 99.06 86.36) (xy 107.95 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3470,7 +3470,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 129.54) (xy 91.44 129.54)
+			(xy 80.01 129.54) (xy 91.44 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3510,7 +3510,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 91.44) (xy 107.95 91.44)
+			(xy 99.06 91.44) (xy 107.95 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4040,7 +4040,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 99.06) (xy 107.95 99.06)
+			(xy 99.06 99.06) (xy 107.95 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4117,18 +4117,6 @@
 			(justify left bottom)
 		)
 		(uuid "0af4e4ec-1962-4b72-8eab-e4e018f89323")
-	)
-	(label "ETH_PHY_TXCTL"
-		(at 88.9 96.52 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-				(thickness 0.127)
-			)
-			(justify left bottom)
-		)
-		(uuid "104ca36e-35cb-4e93-9827-eb03fb07dacc")
 	)
 	(label "ETH_NINT"
 		(at 85.09 111.76 0)
@@ -4210,28 +4198,6 @@
 		)
 		(uuid "2ff2e22c-4ef3-44d2-926a-5a768e9d9b2e")
 	)
-	(label "ETH_PHY_TXD3"
-		(at 88.9 93.98 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left bottom)
-		)
-		(uuid "38209fab-23e4-4b07-8388-553011a0bbf4")
-	)
-	(label "ETH_PHY_TXD2"
-		(at 88.9 91.44 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left bottom)
-		)
-		(uuid "388f8fd2-d1fb-4e67-9b19-509d0550a27b")
-	)
 	(label "MDI2_N"
 		(at 191.77 86.36 0)
 		(fields_autoplaced yes)
@@ -4276,17 +4242,6 @@
 		)
 		(uuid "4ab0a856-073b-4056-bc28-e19698bc3d0d")
 	)
-	(label "ETH_PHY_TXD1"
-		(at 88.9 88.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left bottom)
-		)
-		(uuid "57bd8d9f-894e-4aca-9e45-650fc5b2b28f")
-	)
 	(label "ETH_LED_GR_K"
 		(at 243.84 111.76 0)
 		(fields_autoplaced yes)
@@ -4308,18 +4263,6 @@
 			(justify left bottom)
 		)
 		(uuid "617b256e-4670-4078-bf83-df57852bd1d5")
-	)
-	(label "PL_CLK_125MHZ"
-		(at 73.66 129.54 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-				(thickness 0.127)
-			)
-			(justify left bottom)
-		)
-		(uuid "6b9a8c61-4f28-4455-ad2d-37e664871646")
 	)
 	(label "MDI1_P"
 		(at 191.77 76.2 0)
@@ -4443,29 +4386,6 @@
 		)
 		(uuid "d0646c41-bdc8-4097-a64d-2e86778c3e2c")
 	)
-	(label "ETH_PHY_TXD0"
-		(at 88.9 86.36 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left bottom)
-		)
-		(uuid "d15d7aa6-9df2-4d36-a9f3-3e9b68abc352")
-	)
-	(label "ETH_PHY_TXCLK"
-		(at 88.9 99.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-				(thickness 0.127)
-			)
-			(justify left bottom)
-		)
-		(uuid "d41ff713-9ca7-49cd-8616-9f8c9a1607fb")
-	)
 	(label "ETH_RXD0"
 		(at 29.21 68.58 0)
 		(fields_autoplaced yes)
@@ -4476,18 +4396,6 @@
 			(justify left bottom)
 		)
 		(uuid "db1cc3a7-4236-4fbf-902d-b38d3e95ef91")
-	)
-	(label "ETH_MDC"
-		(at 90.17 106.68 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-				(thickness 0.127)
-			)
-			(justify left bottom)
-		)
-		(uuid "dca3f368-e631-4c02-9b4f-a9d855be8392")
 	)
 	(label "ETH_LED1"
 		(at 190.5 109.22 0)
@@ -4545,6 +4453,150 @@
 		)
 		(uuid "fb7ff55f-1696-44a3-9102-69ccc1620872")
 	)
+	(global_label "PL_CLK_125MHZ"
+		(shape input)
+		(at 80.01 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "27aff437-56fa-4eac-8ea6-c713255fbec3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.65 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ETH_PHY_TXCTL"
+		(shape input)
+		(at 99.06 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "3010bebd-d00f-4708-b468-52d9e0b6ad1d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.0839 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ETH_MDC"
+		(shape input)
+		(at 90.17 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "40a2090c-3221-43db-a8ac-01cc78b0e73b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.8588 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ETH_PHY_TXD1"
+		(shape input)
+		(at 99.06 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "7c2e9982-2b85-42e6-9fea-2a2225a03b41")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.5557 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ETH_PHY_TXD0"
+		(shape input)
+		(at 99.06 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "86775c3f-5c14-4194-b697-7264a390b8c1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.5557 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ETH_PHY_TXD2"
+		(shape input)
+		(at 99.06 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "9353581f-1305-4c47-8355-2647bf7b2cee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.5557 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "ETH_NRST_+3V3"
 		(shape input)
 		(at 82.55 116.84 180)
@@ -4560,6 +4612,54 @@
 		(uuid "beb2b900-8da0-422f-ab90-6994d54400b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 67.3351 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ETH_PHY_TXD3"
+		(shape input)
+		(at 99.06 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "cf9bbeca-b364-463d-b81d-9b44281f778c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.5557 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ETH_PHY_TXCLK"
+		(shape input)
+		(at 99.06 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "f6d61ca5-2e0b-4663-98ae-bed322ace2f5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.9025 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
