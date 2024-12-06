@@ -10325,6 +10325,12 @@
 		(uuid "110145eb-02da-4eba-bfff-cd18d20598e6")
 	)
 	(junction
+		(at 139.7 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1954e51a-910f-4dc1-9bf9-17a40f2450aa")
+	)
+	(junction
 		(at 153.1379 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10545,12 +10551,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4c183a7d-075f-4f3e-84c6-24e3bd9a1cd3")
-	)
-	(junction
-		(at 139.1679 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4c8d3501-0b20-45b8-8a04-aab57bf3597b")
 	)
 	(junction
 		(at 212.09 40.64)
@@ -10821,12 +10821,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "76c3ea14-db81-4c2b-bf7d-20505f035316")
-	)
-	(junction
-		(at 139.1679 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "76e92745-ff55-44c9-8c4f-13d3ea258d0b")
 	)
 	(junction
 		(at 373.38 102.87)
@@ -11109,6 +11103,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aba1469b-8c51-47e3-ab63-35c84126caf9")
+	)
+	(junction
+		(at 139.7 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac8b081c-597c-48c0-9f29-6d2c5e3280f1")
 	)
 	(junction
 		(at 165.1 60.96)
@@ -13146,6 +13146,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 78.74) (xy 146.05 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b69cf16-fd11-4f04-94c6-619a04cac31b")
+	)
+	(wire
+		(pts
 			(xy 339.09 184.15) (xy 377.19 184.15)
 		)
 		(stroke
@@ -13453,16 +13463,6 @@
 			(type default)
 		)
 		(uuid "678e99ca-8235-40bb-87ac-dc65a4f6979e")
-	)
-	(wire
-		(pts
-			(xy 139.1679 78.74) (xy 146.05 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67a6e210-fdc5-405a-ac46-2fcb2afb3080")
 	)
 	(wire
 		(pts
@@ -14166,7 +14166,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 86.36) (xy 139.1679 86.36)
+			(xy 132.08 86.36) (xy 139.7 86.36)
 		)
 		(stroke
 			(width 0)
@@ -14713,16 +14713,6 @@
 			(type default)
 		)
 		(uuid "aac714f3-8f9c-4b32-9b54-2fa71d06f8a3")
-	)
-	(wire
-		(pts
-			(xy 139.1679 86.36) (xy 146.05 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "abc47fcb-4ac8-473b-9481-d271a990e1b3")
 	)
 	(wire
 		(pts
@@ -15476,6 +15466,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 86.36) (xy 146.05 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d11a7728-8782-46b9-a582-ef20f2ae220a")
+	)
+	(wire
+		(pts
 			(xy 80.01 177.8) (xy 95.25 177.8)
 		)
 		(stroke
@@ -15936,7 +15936,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 78.74) (xy 139.1679 78.74)
+			(xy 132.08 78.74) (xy 139.7 78.74)
 		)
 		(stroke
 			(width 0)
@@ -22560,7 +22560,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 139.1679 82.55 0)
+		(at 139.7 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22568,7 +22568,7 @@
 		(dnp no)
 		(uuid "49fee7b7-425e-49ba-8d61-4c4cd031271e")
 		(property "Reference" "C716"
-			(at 139.1679 80.772 0)
+			(at 139.7 80.772 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22577,7 +22577,7 @@
 			)
 		)
 		(property "Value" "47n"
-			(at 139.1679 84.582 0)
+			(at 139.7 84.582 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22586,7 +22586,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 140.1331 86.36 0)
+			(at 140.6652 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22595,7 +22595,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.1679 82.55 0)
+			(at 139.7 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22604,7 +22604,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 139.1679 82.55 0)
+			(at 139.7 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22613,7 +22613,7 @@
 			)
 		)
 		(property "LCSC" "C47339"
-			(at 139.1679 82.55 0)
+			(at 139.7 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22622,7 +22622,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 139.1679 82.55 0)
+			(at 139.7 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27901,7 +27901,7 @@
 		(dnp no)
 		(uuid "b0f230b1-633b-4e04-b5e1-8d9c76224784")
 		(property "Reference" "R627"
-			(at 375.412 187.96 90)
+			(at 373.126 187.452 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -27909,7 +27909,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 377.19 188.468 90)
+			(at 373.126 189.484 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -29693,7 +29693,7 @@
 		(dnp no)
 		(uuid "c59c5954-9fca-4176-a433-71b27ede43e2")
 		(property "Reference" "R626"
-			(at 375.412 177.8 90)
+			(at 373.634 175.768 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -29701,7 +29701,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 377.19 178.308 90)
+			(at 373.888 177.8 0)
 			(effects
 				(font
 					(size 0.762 0.762)

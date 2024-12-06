@@ -8767,23 +8767,13 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 73.66) (xy 259.08 73.66)
+			(xy 231.14 73.66) (xy 257.81 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1a434e5b-52dd-4188-ae5c-fbac374323e5")
-	)
-	(wire
-		(pts
-			(xy 231.14 76.2) (xy 259.08 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b3fea08-f2e5-45a9-add2-2212d250f8a9")
 	)
 	(wire
 		(pts
@@ -8794,6 +8784,16 @@
 			(type default)
 		)
 		(uuid "23c34a48-e1c0-48ac-a5b3-d18fca9014bb")
+	)
+	(wire
+		(pts
+			(xy 231.14 68.58) (xy 257.81 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "349fdd0c-d4ac-4d1e-9578-096cda247392")
 	)
 	(wire
 		(pts
@@ -8827,6 +8827,16 @@
 	)
 	(wire
 		(pts
+			(xy 231.14 71.12) (xy 257.81 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56d729ef-1dfa-4877-9508-e9e3ad5a373e")
+	)
+	(wire
+		(pts
 			(xy 231.14 101.6) (xy 251.46 101.6)
 		)
 		(stroke
@@ -8854,16 +8864,6 @@
 			(type default)
 		)
 		(uuid "621e4f87-a69e-4a17-8b54-f8637c2a9175")
-	)
-	(wire
-		(pts
-			(xy 231.14 71.12) (xy 259.08 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "623be1b8-ad01-4530-8297-12311ccf1ea1")
 	)
 	(wire
 		(pts
@@ -8937,7 +8937,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 62.23) (xy 91.44 62.23)
+			(xy 74.93 62.23) (xy 99.06 62.23)
 		)
 		(stroke
 			(width 0)
@@ -9037,7 +9037,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 88.9) (xy 252.73 88.9)
+			(xy 231.14 88.9) (xy 259.08 88.9)
 		)
 		(stroke
 			(width 0)
@@ -9057,7 +9057,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 77.47) (xy 74.93 77.47)
+			(xy 100.33 77.47) (xy 74.93 77.47)
 		)
 		(stroke
 			(width 0)
@@ -9117,6 +9117,16 @@
 	)
 	(wire
 		(pts
+			(xy 231.14 76.2) (xy 257.81 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5aef206-d44f-43d5-8f83-228928ef343e")
+	)
+	(wire
+		(pts
 			(xy 74.93 153.67) (xy 101.6 153.67)
 		)
 		(stroke
@@ -9137,7 +9147,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 113.03) (xy 91.44 113.03)
+			(xy 74.93 113.03) (xy 100.33 113.03)
 		)
 		(stroke
 			(width 0)
@@ -9194,16 +9204,6 @@
 			(type default)
 		)
 		(uuid "da420136-a1b0-4cf3-b100-1c23900f9cc3")
-	)
-	(wire
-		(pts
-			(xy 231.14 68.58) (xy 259.08 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db10a326-4baa-4740-9c45-68ce18f60786")
 	)
 	(wire
 		(pts
@@ -9287,7 +9287,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 64.77) (xy 91.44 64.77)
+			(xy 74.93 64.77) (xy 99.06 64.77)
 		)
 		(stroke
 			(width 0)
@@ -9319,6 +9319,19 @@
 		)
 		(uuid 6b8f8ad6-5789-4c1c-9ee3-0c358e0d4f5c)
 	)
+	(rectangle
+		(start 90.17 59.69)
+		(end 114.3 160.02)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 255 47 64 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f2db4905-5d56-4347-9987-3b8d36a13197)
+	)
 	(text "Bank 35"
 		(exclude_from_sim no)
 		(at 189.23 18.542 0)
@@ -9330,6 +9343,16 @@
 			)
 		)
 		(uuid "7571593f-30f3-4349-b1e1-d673e37b385a")
+	)
+	(text "Diff Pair"
+		(exclude_from_sim no)
+		(at 111.506 161.798 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "e285e20e-735c-4843-9556-09e159905dd2")
 	)
 	(text "Bank 34"
 		(exclude_from_sim no)
@@ -9411,8 +9434,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9435,8 +9457,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9454,19 +9475,18 @@
 	)
 	(global_label "PL_B35_L8_P"
 		(shape input)
-		(at 259.0323 68.58 0)
+		(at 257.81 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
 		(uuid "06610a68-2790-428e-b5fe-ed8dc8dc9501")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 268.7384 68.58 0)
+			(at 267.5161 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9483,8 +9503,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9507,8 +9526,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9526,19 +9544,18 @@
 	)
 	(global_label "PL_B35_L9_P"
 		(shape input)
-		(at 259.08 73.66 0)
+		(at 257.81 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
 		(uuid "1f51c4cb-0830-40f6-b7d6-936fd05ec788")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 268.7861 73.66 0)
+			(at 267.5161 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9555,8 +9572,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9579,8 +9595,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9603,8 +9618,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9622,19 +9636,18 @@
 	)
 	(global_label "PL_B34_L7_P"
 		(shape input)
-		(at 82.55 77.47 0)
+		(at 100.33 77.47 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
 		(uuid "2bc37d49-b042-4f5d-920c-f8daa7f6779a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 92.2561 77.47 0)
+			(at 110.0361 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9651,8 +9664,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9675,8 +9687,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9699,8 +9710,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9723,8 +9733,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9747,8 +9756,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9766,19 +9774,18 @@
 	)
 	(global_label "PL_CLK_125MHZ"
 		(shape input)
-		(at 252.73 88.9 0)
+		(at 259.08 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
 		(uuid "45b33607-8d9f-467e-8642-edee710abf14")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 264.2504 88.9 0)
+			(at 270.6004 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9795,8 +9802,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9819,8 +9825,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9843,8 +9848,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9867,8 +9871,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9886,19 +9889,18 @@
 	)
 	(global_label "PL_B34_L4_P"
 		(shape input)
-		(at 91.44 62.23 0)
+		(at 99.06 62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
 		(uuid "54c534dc-cfd3-4281-9764-69dfec4a865b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 101.1461 62.23 0)
+			(at 108.7661 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9915,8 +9917,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9939,8 +9940,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9963,8 +9963,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -9987,8 +9986,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10011,8 +10009,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10035,8 +10032,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10059,8 +10055,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10083,8 +10078,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10107,8 +10101,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10126,19 +10119,18 @@
 	)
 	(global_label "PL_B35_L8_N"
 		(shape input)
-		(at 258.9604 71.12 0)
+		(at 257.81 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
 		(uuid "926523cc-4c91-4b4c-ac0f-6c8c6e5b0b05")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 268.7028 71.12 0)
+			(at 267.5524 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10155,8 +10147,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10179,8 +10170,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10203,8 +10193,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10222,19 +10211,18 @@
 	)
 	(global_label "PL_B34_L4_N"
 		(shape input)
-		(at 91.44 64.77 0)
+		(at 99.06 64.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
 		(uuid "9fa806a0-bc74-4a0f-a935-a8432e3f1a02")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 101.1824 64.77 0)
+			(at 108.8024 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10251,8 +10239,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10275,8 +10262,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10299,8 +10285,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10323,8 +10308,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10347,8 +10331,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10371,8 +10354,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10395,8 +10377,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10419,8 +10400,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10443,8 +10423,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10467,8 +10446,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10491,8 +10469,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10510,19 +10487,18 @@
 	)
 	(global_label "PL_B34_L14_P"
 		(shape input)
-		(at 91.44 113.03 0)
+		(at 100.33 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
 		(uuid "f259747a-d8c0-4003-a15f-d389b4215ea9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 101.8718 113.03 0)
+			(at 110.2858 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10539,8 +10515,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
@@ -10558,19 +10533,18 @@
 	)
 	(global_label "PL_B35_L9_N"
 		(shape input)
-		(at 258.9604 76.2 0)
+		(at 257.81 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
 		(uuid "f37bcc25-6849-46b0-9c1c-7edebf362289")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 268.7028 76.2 0)
+			(at 267.5524 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10587,8 +10561,7 @@
 		(effects
 			(font
 				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
+				(thickness 0.0953)
 			)
 			(justify left)
 		)
