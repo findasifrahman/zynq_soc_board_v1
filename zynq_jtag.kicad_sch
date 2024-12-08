@@ -26920,7 +26920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "zynq_sc7z0x0:CLG400"
+		(property "Footprint" "Package_BGA:Xilinx_CLG400"
 			(at 144.78 58.42 0)
 			(effects
 				(font

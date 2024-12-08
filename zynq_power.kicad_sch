@@ -12833,7 +12833,7 @@
 				)
 			)
 		)
-		(property "Footprint" "zynq_sc7z0x0:CLG400"
+		(property "Footprint" "Package_BGA:Xilinx_CLG400"
 			(at 218.44 179.07 0)
 			(effects
 				(font
@@ -16761,7 +16761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "zynq_sc7z0x0:CLG400"
+		(property "Footprint" "Package_BGA:Xilinx_CLG400"
 			(at 68.58 170.18 0)
 			(effects
 				(font
@@ -19389,7 +19389,7 @@
 				)
 			)
 		)
-		(property "Footprint" "zynq_sc7z0x0:CLG400"
+		(property "Footprint" "Package_BGA:Xilinx_CLG400"
 			(at 60.96 54.61 0)
 			(effects
 				(font
@@ -22489,7 +22489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "zynq_sc7z0x0:CLG400"
+		(property "Footprint" "Package_BGA:Xilinx_CLG400"
 			(at 240.03 77.47 0)
 			(effects
 				(font
