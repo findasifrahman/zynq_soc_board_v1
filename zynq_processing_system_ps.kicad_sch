@@ -14742,7 +14742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XTAL_2520"
+		(property "Footprint" "Footprint-Lib-PhilsLab:XTAL_2520"
 			(at 271.78 214.63 0)
 			(effects
 				(font
@@ -16474,91 +16474,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 113.03 128.27 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "539ffcdd-1db4-4c92-89c6-632f28c1c599")
-		(property "Reference" "R404"
-			(at 113.03 128.27 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Value" "20K"
-			(at 109.22 127.508 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 113.03 126.492 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 113.03 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 113.03 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25765"
-			(at 113.03 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "0402WGF2002TCE"
-			(at 113.03 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "467a8dd8-16df-4705-a33c-1ff85b85a143")
-		)
-		(pin "1"
-			(uuid "5a5ffa63-ec41-40de-aee2-e16c4794dde9")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/7169259b-160e-43c7-86a6-e36152f4c13a"
-					(reference "R404")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Schematic-Lib-PhilsLab:SN74LVC1G07DRLR")
 		(at 157.48 214.63 0)
 		(unit 1)
@@ -17388,7 +17303,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKRPANE010"
+		(property "Footprint" "Footprint-Lib-PhilsLab:SKRPANE010"
 			(at 255.27 60.96 0)
 			(effects
 				(font
@@ -18033,7 +17948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_0402_RED"
+		(property "Footprint" "Footprint-Lib-PhilsLab:LED_0402_RED"
 			(at 195.58 106.68 0)
 			(effects
 				(font
@@ -19485,6 +19400,91 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/7169259b-160e-43c7-86a6-e36152f4c13a"
 					(reference "C403")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 113.03 128.27 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e823ae2e-00e8-433c-a055-3f4384297ce1")
+		(property "Reference" "R404"
+			(at 113.03 128.27 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Value" "20K"
+			(at 108.712 127.508 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:R0201"
+			(at 113.03 126.492 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 113.03 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 113.03 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C295787"
+			(at 113.03 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0201FR-0720KL"
+			(at 113.03 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f5a7ee92-0c62-4d5d-a038-e426ffbdbdf8")
+		)
+		(pin "1"
+			(uuid "b3746e25-25b6-40e3-b940-258ba0f0bdd3")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/7169259b-160e-43c7-86a6-e36152f4c13a"
+					(reference "R404")
 					(unit 1)
 				)
 			)
@@ -21998,7 +21998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "easyeda2kicad_foorprint:R0201"
 			(at 146.05 129.032 90)
 			(effects
 				(font
@@ -22025,7 +22025,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25765"
+		(property "LCSC" "C295787"
 			(at 146.05 130.81 0)
 			(effects
 				(font
@@ -22034,7 +22034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "0402WGF2002TCE"
+		(property "Manufacturer Part Number" "RC0201FR-0720KL"
 			(at 146.05 130.81 0)
 			(effects
 				(font

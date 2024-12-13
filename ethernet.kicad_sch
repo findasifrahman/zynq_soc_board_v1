@@ -7788,7 +7788,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HR911130A"
+		(property "Footprint" "Footprint-Lib-PhilsLab:HR911130A"
 			(at 251.46 81.28 0)
 			(effects
 				(font
@@ -9554,7 +9554,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FB_0402"
+		(property "Footprint" "Footprint-Lib-PhilsLab:FB_0402"
 			(at 50.8 43.18 0)
 			(effects
 				(font
@@ -10202,7 +10202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FB_0402"
+		(property "Footprint" "Footprint-Lib-PhilsLab:FB_0402"
 			(at 231.14 38.1 0)
 			(effects
 				(font
@@ -11361,7 +11361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XTAL_2520"
+		(property "Footprint" "Footprint-Lib-PhilsLab:XTAL_2520"
 			(at 38.1 124.46 0)
 			(effects
 				(font

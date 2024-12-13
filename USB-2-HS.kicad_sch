@@ -3918,7 +3918,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QFN-32-5x5x0.85mm"
+		(property "Footprint" "Footprint-Lib-PhilsLab:QFN-32-5x5x0.85mm"
 			(at 128.27 86.36 0)
 			(effects
 				(font
@@ -5159,7 +5159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FB_0402"
+		(property "Footprint" "Footprint-Lib-PhilsLab:FB_0402"
 			(at 212.09 63.5 0)
 			(effects
 				(font
@@ -5266,7 +5266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XTAL_2520"
+		(property "Footprint" "Footprint-Lib-PhilsLab:XTAL_2520"
 			(at 43.18 104.14 0)
 			(effects
 				(font

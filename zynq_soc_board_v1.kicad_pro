@@ -180,6 +180,7 @@
       "track_widths": [
         0.0,
         0.1,
+        0.128,
         0.2,
         0.25,
         1.0
@@ -482,7 +483,14 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "+0V675": "rgb(255, 86, 17)",
+      "+1V35": "rgb(255, 36, 17)",
+      "+1V8": "rgb(255, 18, 25)",
+      "+3V3": "rgb(255, 0, 28)",
+      "+5V": "rgb(255, 24, 35)",
+      "VCC": "rgb(255, 23, 40)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },

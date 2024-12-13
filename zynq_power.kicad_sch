@@ -8350,6 +8350,12 @@
 		(uuid "06b00cca-a9b0-4851-95ae-e479cb196731")
 	)
 	(junction
+		(at 33.02 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "070ffb49-0af4-48c2-99d3-f06f9c25f988")
+	)
+	(junction
 		(at 210.82 199.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8368,10 +8374,10 @@
 		(uuid "0a0df0da-5284-4721-84e8-09bcbd5981dd")
 	)
 	(junction
-		(at 185.42 198.12)
+		(at 129.54 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0d26ea7d-3fb1-470d-bf12-e30cf3b7259f")
+		(uuid "0c9eb957-c863-4f96-8b86-ec227e4015dd")
 	)
 	(junction
 		(at 101.6 220.98)
@@ -8380,34 +8386,22 @@
 		(uuid "0dd2ce32-df1a-44dd-bb95-3b5f9c56c7c7")
 	)
 	(junction
+		(at 39.37 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0dd4a888-91b6-40fd-9e8c-b300466ca942")
+	)
+	(junction
 		(at 101.6 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0fd7b7ba-34de-49a0-8968-970799ccae11")
 	)
 	(junction
-		(at 285.75 199.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1116fe55-caf4-4ac6-b80b-95b7d5a973f4")
-	)
-	(junction
-		(at 33.02 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "145dfabf-5fd6-4c61-a1d9-c9515eba6e33")
-	)
-	(junction
 		(at 101.6 228.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1472f9f2-74dc-47b9-8c7a-0ff6761271b1")
-	)
-	(junction
-		(at 279.4 199.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "15760500-06ec-4084-89fc-de9719344040")
 	)
 	(junction
 		(at 53.34 133.35)
@@ -8434,10 +8428,16 @@
 		(uuid "21c80974-6528-4004-9c9e-89d8762d4ecb")
 	)
 	(junction
-		(at 36.83 58.42)
+		(at 38.1 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "23be5aa4-69cb-4dd8-be16-bf10c7799f28")
+		(uuid "250e5ed7-80d6-495c-9ed5-0dc6ba257db1")
+	)
+	(junction
+		(at 292.1 207.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "26c91cb4-2732-4535-aa67-f280763cb4ca")
 	)
 	(junction
 		(at 256.54 204.47)
@@ -8446,10 +8446,22 @@
 		(uuid "27910944-f772-409a-b467-5f4a6e2f7e5f")
 	)
 	(junction
+		(at 44.45 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "28a6825c-d2b9-449e-b694-eb829ad26246")
+	)
+	(junction
 		(at 101.6 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "28dbd610-6344-4ba8-a21f-aaea4a148af7")
+	)
+	(junction
+		(at 298.45 207.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29bee5c3-b662-4000-a505-688389aa0fa5")
 	)
 	(junction
 		(at 60.96 218.44)
@@ -8462,12 +8474,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ab4b407-a643-42b7-84f4-d6bc90c4cc46")
-	)
-	(junction
-		(at 185.42 205.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2b5a63a3-fa2e-41c2-a053-5a0718fceb72")
 	)
 	(junction
 		(at 101.6 205.74)
@@ -8488,6 +8494,12 @@
 		(uuid "30b996b0-9cd6-440e-b265-e8a862b97b0e")
 	)
 	(junction
+		(at 279.4 199.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30c09a00-e3c5-46f2-916c-3c3a4399b807")
+	)
+	(junction
 		(at 109.22 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8506,12 +8518,6 @@
 		(uuid "350587ef-5df6-48f8-a27c-38ba84f78aae")
 	)
 	(junction
-		(at 204.47 198.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3a2d8278-e55e-40c0-a2fc-bf149f9daf5e")
-	)
-	(junction
 		(at 260.35 199.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8522,6 +8528,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "404c167d-51fe-44d8-875f-ff2bae8d6e58")
+	)
+	(junction
+		(at 133.35 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "40b61d45-999f-451c-94ed-81f0ef0f9a11")
 	)
 	(junction
 		(at 60.96 236.22)
@@ -8572,16 +8584,16 @@
 		(uuid "4c7b050b-6617-4e08-87c6-dcd3436ccc22")
 	)
 	(junction
-		(at 298.45 199.39)
+		(at 39.37 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4e223a11-cc41-44ce-8d8f-35ed8b6fdc04")
+		(uuid "4d8192e6-119a-481e-b4e7-6616eeb6725e")
 	)
 	(junction
-		(at 39.37 91.44)
+		(at 33.02 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4e714bc9-21eb-47f2-b7de-7999f17e6ada")
+		(uuid "4ea27367-37b8-4faa-9f60-9b9d85213954")
 	)
 	(junction
 		(at 109.22 82.55)
@@ -8620,6 +8632,12 @@
 		(uuid "527b1b60-f1ba-4a57-b4b5-289c890d6a29")
 	)
 	(junction
+		(at 139.7 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53df4d7e-44d0-400f-9edf-b676a7ebac65")
+	)
+	(junction
 		(at 60.96 213.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8630,6 +8648,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5612fcb0-12a2-4351-a424-c651e1f0600e")
+	)
+	(junction
+		(at 133.35 111.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "57e6699b-0226-4c05-8647-1489fe9ff421")
 	)
 	(junction
 		(at 127 119.38)
@@ -8650,22 +8674,10 @@
 		(uuid "5b8d22d7-2710-446d-8e23-280f50b85f5a")
 	)
 	(junction
-		(at 198.12 198.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5dd01f5d-5d15-4644-8cee-00a57cacccda")
-	)
-	(junction
 		(at 256.54 207.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5e488ca7-5bd6-4ffd-b28b-812ece44f8e1")
-	)
-	(junction
-		(at 39.37 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5e77eecb-d8d3-49a2-96ff-fd61b1ea74b7")
 	)
 	(junction
 		(at 26.67 137.16)
@@ -8680,28 +8692,28 @@
 		(uuid "619677e7-7d72-4379-aebc-bd6caaf07997")
 	)
 	(junction
+		(at 279.4 207.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6307662e-d508-4bdf-ade6-867010d1d469")
+	)
+	(junction
 		(at 146.05 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "633dae67-fd2f-4589-ab70-2c185eec2ee8")
 	)
 	(junction
-		(at 148.59 62.23)
+		(at 139.7 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "65c2358d-0206-4b86-8497-26c879970592")
+		(uuid "642c47e0-00f4-4c19-8454-4d88cfc882a5")
 	)
 	(junction
 		(at 127 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "661ac3a7-f56e-4588-9331-00099d4bf338")
-	)
-	(junction
-		(at 292.1 199.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "66ae0307-864f-48a1-a2b3-103ab26648e1")
 	)
 	(junction
 		(at 101.6 210.82)
@@ -8734,6 +8746,12 @@
 		(uuid "6d8b76e5-f592-4530-84cc-911434d40c2b")
 	)
 	(junction
+		(at 38.1 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f58cc09-d435-4948-acfe-0bc3efe6db97")
+	)
+	(junction
 		(at 109.22 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8752,22 +8770,10 @@
 		(uuid "7144efac-d0a7-457c-a028-18af1f0638df")
 	)
 	(junction
-		(at 292.1 207.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7355aed8-be7a-4abb-8238-f511049afb41")
-	)
-	(junction
 		(at 125.73 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "784409d7-b4f9-4e9a-8cf4-5f6d684e2d80")
-	)
-	(junction
-		(at 39.37 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "78543f36-c567-4076-9c8e-c6d9d06f9323")
 	)
 	(junction
 		(at 60.96 215.9)
@@ -8818,6 +8824,12 @@
 		(uuid "80d930a6-d0aa-4bdb-a80e-b2fec194dae3")
 	)
 	(junction
+		(at 139.7 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "811f6dbf-8b4c-482a-af5e-a9c76cb91b05")
+	)
+	(junction
 		(at 33.02 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8830,22 +8842,16 @@
 		(uuid "83f8ab8f-c9b5-484d-9a08-f8bac758fe26")
 	)
 	(junction
-		(at 279.4 207.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "853a72fe-d8c2-4168-888d-05ed24c7a6a4")
-	)
-	(junction
 		(at 109.22 125.73)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "854e9318-580d-4c9b-b3ac-e288b39e907c")
 	)
 	(junction
-		(at 36.83 66.04)
+		(at 198.12 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "856f6090-e687-4974-827a-73462d914ddb")
+		(uuid "86243b73-bded-4a4e-8efd-ec64587f5436")
 	)
 	(junction
 		(at 273.05 207.01)
@@ -8872,22 +8878,40 @@
 		(uuid "89f946d6-d3d6-49b4-b12f-0677d946d5ce")
 	)
 	(junction
+		(at 191.77 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a109235-ce3b-4b37-9c03-603dff606ac6")
+	)
+	(junction
+		(at 185.42 205.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b49ecf3-b514-4d39-a81c-5bd35eca7c9b")
+	)
+	(junction
 		(at 30.48 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b7b8147-06cd-49b5-83c9-6c4c10d65966")
 	)
 	(junction
-		(at 133.35 119.38)
+		(at 298.45 199.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8bdda393-9173-474a-9ae4-5b8d35a8a27b")
+		(uuid "8c16ff70-1699-41ee-b592-f032d8f2fb76")
 	)
 	(junction
 		(at 60.96 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8cf89fc5-fb1d-41e9-a4f4-7a1cffb4f50e")
+	)
+	(junction
+		(at 285.75 199.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d1f9504-73f3-456e-a423-2597ce3007ee")
 	)
 	(junction
 		(at 60.96 187.96)
@@ -8938,18 +8962,6 @@
 		(uuid "9360b806-a811-4b8d-af2d-1ba4036f93e6")
 	)
 	(junction
-		(at 33.02 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9503624d-8936-44f5-b5cb-633af4f64b1e")
-	)
-	(junction
-		(at 139.7 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "96bfa706-7683-4d2a-b547-1c31a1850fc1")
-	)
-	(junction
 		(at 172.72 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8986,16 +8998,16 @@
 		(uuid "9be2b209-f11c-4f4a-837b-2d73c3a696ac")
 	)
 	(junction
-		(at 139.7 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9c6bb679-feb0-4050-a946-78d5ff42e4a5")
-	)
-	(junction
 		(at 101.6 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9d7ceb65-16e5-453f-8f40-990e7b0eb4ae")
+	)
+	(junction
+		(at 33.02 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9fc683b5-81da-4308-9a94-6bd58e274255")
 	)
 	(junction
 		(at 60.96 180.34)
@@ -9008,12 +9020,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5b5b0ca-51b8-4a14-b17b-fa65373eb6c0")
-	)
-	(junction
-		(at 133.35 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a5e93240-35bb-4b60-a83b-8b5f9dcf801e")
 	)
 	(junction
 		(at 266.7 207.01)
@@ -9034,10 +9040,16 @@
 		(uuid "a90556ee-6f50-4f18-89e9-3fa25156931b")
 	)
 	(junction
-		(at 139.7 67.31)
+		(at 148.59 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a9c0961b-9b9a-450f-b208-d3a01971aee0")
+		(uuid "a9834a5b-cb78-41de-9046-9f1d68fa1134")
+	)
+	(junction
+		(at 45.72 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa0cbce0-47f7-432d-9e99-a9c5a15e54a5")
 	)
 	(junction
 		(at 146.05 111.76)
@@ -9062,6 +9074,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ab778427-fa79-444e-8aad-da1f9a60c5d3")
+	)
+	(junction
+		(at 191.77 205.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab8ad88e-4e1a-4eb6-80d8-26d87c1b2db9")
 	)
 	(junction
 		(at 118.11 73.66)
@@ -9094,12 +9112,6 @@
 		(uuid "b036254b-a975-4581-a1d2-d76a2731f089")
 	)
 	(junction
-		(at 191.77 198.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b211bac6-b1f9-4ce2-9c2f-10bdf2db5461")
-	)
-	(junction
 		(at 123.19 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9112,16 +9124,16 @@
 		(uuid "b365ed1c-4300-4bcb-82ee-0c94e21278b1")
 	)
 	(junction
+		(at 292.1 199.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b396a7d4-560a-4884-8878-b954a599b3d5")
+	)
+	(junction
 		(at 101.6 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b526f70b-9390-46bb-9156-3504974dc85a")
-	)
-	(junction
-		(at 33.02 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b7f0f482-9608-427a-bfa7-915291e372e8")
 	)
 	(junction
 		(at 210.82 184.15)
@@ -9166,12 +9178,6 @@
 		(uuid "bd434b82-332a-43fb-a54d-47ef23d93e3b")
 	)
 	(junction
-		(at 129.54 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bd606153-466a-45ba-853e-85d2e6e891b2")
-	)
-	(junction
 		(at 60.96 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9196,16 +9202,10 @@
 		(uuid "c6e33afa-fcd0-473f-a79e-a7242277884c")
 	)
 	(junction
-		(at 43.18 58.42)
+		(at 285.75 207.01)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c71aed48-4219-4aa0-9886-fd518f473d89")
-	)
-	(junction
-		(at 129.54 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c7b1d9cb-b67d-445f-b184-0949dd4626d3")
+		(uuid "c6e608a4-f4da-4eae-9f6c-9d58ef2653a9")
 	)
 	(junction
 		(at 120.65 111.76)
@@ -9226,16 +9226,16 @@
 		(uuid "c845bd5d-d829-4a1a-b804-853f26c49b95")
 	)
 	(junction
+		(at 129.54 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c907b640-840b-45e3-9d33-aae54b850f1b")
+	)
+	(junction
 		(at 127 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c909072b-8e93-404f-92f5-296a5e3e9852")
-	)
-	(junction
-		(at 134.62 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c98e78aa-4a20-4b3b-b8ab-bc9f9b26d550")
 	)
 	(junction
 		(at 101.6 251.46)
@@ -9250,10 +9250,22 @@
 		(uuid "cbe9dcd9-d95e-4f40-9c7f-5f441ba7306f")
 	)
 	(junction
+		(at 204.47 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ccb56881-d376-4c7c-b1cb-14594187d9e3")
+	)
+	(junction
 		(at 101.6 215.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ce7e764e-a789-4525-8cdf-599ab302048d")
+	)
+	(junction
+		(at 39.37 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ce8e701e-84e9-4e4a-91e9-aba857cf620e")
 	)
 	(junction
 		(at 33.02 129.54)
@@ -9304,12 +9316,6 @@
 		(uuid "d4475b47-1228-4277-8067-e7d3c1191565")
 	)
 	(junction
-		(at 285.75 207.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d4588543-dac4-4149-a163-7da68658db95")
-	)
-	(junction
 		(at 101.6 226.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9334,16 +9340,22 @@
 		(uuid "dcd022d5-6d9c-4972-b55e-21fe9f86de68")
 	)
 	(junction
-		(at 191.77 205.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "df4d2257-ac94-40c7-85f6-8e5b40c13341")
-	)
-	(junction
 		(at 109.22 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e0eb964d-deff-4168-827b-9b2fb62d7784")
+	)
+	(junction
+		(at 185.42 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e147dbb0-cd53-4be3-809e-1abc88f9117d")
+	)
+	(junction
+		(at 198.12 205.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e15b4301-5412-47ce-8f52-9588d553b4d6")
 	)
 	(junction
 		(at 179.07 205.74)
@@ -9394,16 +9406,10 @@
 		(uuid "ec6e782d-3463-41b4-a950-710f415e6fbc")
 	)
 	(junction
-		(at 298.45 207.01)
+		(at 134.62 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ef960162-d1cb-4f5a-93a4-029837f410f5")
-	)
-	(junction
-		(at 44.45 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "efe4bd05-4939-42da-b907-45902a19a543")
+		(uuid "ee52cd2e-6012-4a51-a7e7-f7101f8538d4")
 	)
 	(junction
 		(at 273.05 199.39)
@@ -9452,12 +9458,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f498bf18-3a0d-40a5-988f-17ca60c1469d")
-	)
-	(junction
-		(at 198.12 205.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f54c0453-42cd-418e-8ba8-5094c98e39cd")
 	)
 	(junction
 		(at 60.96 226.06)
@@ -9567,16 +9567,6 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 58.42) (xy 36.83 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "001c6e31-e37c-461b-92ca-63ceeb437800")
-	)
-	(wire
-		(pts
 			(xy 266.7 207.01) (xy 260.35 207.01)
 		)
 		(stroke
@@ -9617,6 +9607,16 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 205.74) (xy 204.47 205.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0712c7ad-4250-4937-ac6e-170e08b1ff23")
+	)
+	(wire
+		(pts
 			(xy 109.22 133.35) (xy 111.76 133.35)
 		)
 		(stroke
@@ -9644,16 +9644,6 @@
 			(type default)
 		)
 		(uuid "09e1bfeb-6a06-458c-852c-0b68353eb804")
-	)
-	(wire
-		(pts
-			(xy 39.37 91.44) (xy 44.45 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ac5b105-8050-4003-8af0-6b89a71e03d9")
 	)
 	(wire
 		(pts
@@ -9687,7 +9677,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 119.38) (xy 127 119.38)
+			(xy 127 119.38) (xy 133.35 119.38)
 		)
 		(stroke
 			(width 0)
@@ -9757,7 +9747,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 198.12) (xy 191.77 198.12)
+			(xy 179.07 198.12) (xy 185.42 198.12)
 		)
 		(stroke
 			(width 0)
@@ -9767,7 +9757,17 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 66.04) (xy 36.83 66.04)
+			(xy 185.42 205.74) (xy 191.77 205.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1406c204-10bb-44e5-85bd-4f4f3fb4defa")
+	)
+	(wire
+		(pts
+			(xy 30.48 66.04) (xy 38.1 66.04)
 		)
 		(stroke
 			(width 0)
@@ -9784,16 +9784,6 @@
 			(type default)
 		)
 		(uuid "14ca6318-437b-493e-857d-d08f75ae66df")
-	)
-	(wire
-		(pts
-			(xy 198.12 198.12) (xy 204.47 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15202ec4-1279-4f2a-8937-06da124fba4f")
 	)
 	(wire
 		(pts
@@ -9847,6 +9837,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 119.38) (xy 146.05 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19e0065b-e846-4db0-9b37-0128f5de6b90")
+	)
+	(wire
+		(pts
 			(xy 101.6 172.72) (xy 101.6 175.26)
 		)
 		(stroke
@@ -9897,16 +9897,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 115.57) (xy 33.02 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22206789-f1a3-4ed1-a640-65a7fd5cc343")
-	)
-	(wire
-		(pts
 			(xy 101.6 182.88) (xy 101.6 185.42)
 		)
 		(stroke
@@ -9937,6 +9927,26 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 199.39) (xy 285.75 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "276c6897-6e43-4707-b962-5e3213734a66")
+	)
+	(wire
+		(pts
+			(xy 191.77 205.74) (xy 198.12 205.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "280213fc-e7ed-4037-8647-8118752d089c")
+	)
+	(wire
+		(pts
 			(xy 210.82 207.01) (xy 210.82 209.55)
 		)
 		(stroke
@@ -9947,7 +9957,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 58.42) (xy 50.8 58.42)
+			(xy 30.48 58.42) (xy 38.1 58.42)
 		)
 		(stroke
 			(width 0)
@@ -9987,6 +9997,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 129.54) (xy 53.34 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f5ee31b-e230-481a-bc07-3c46a36be22e")
+	)
+	(wire
+		(pts
 			(xy 50.8 59.69) (xy 50.8 62.23)
 		)
 		(stroke
@@ -10004,6 +10024,16 @@
 			(type default)
 		)
 		(uuid "316812d7-0027-46e3-9557-3ee3ec484511")
+	)
+	(wire
+		(pts
+			(xy 33.02 83.82) (xy 39.37 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31e876d1-9005-46c1-964c-c3b09f9e8765")
 	)
 	(wire
 		(pts
@@ -10057,16 +10087,6 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 83.82) (xy 33.02 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35936a4c-045a-41c9-b20c-c0007bb36cbd")
-	)
-	(wire
-		(pts
 			(xy 60.96 185.42) (xy 60.96 187.96)
 		)
 		(stroke
@@ -10097,6 +10117,16 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 199.39) (xy 298.45 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "395a7d68-71d7-4266-835c-3e066de0b33b")
+	)
+	(wire
+		(pts
 			(xy 52.07 95.25) (xy 53.34 95.25)
 		)
 		(stroke
@@ -10104,6 +10134,16 @@
 			(type default)
 		)
 		(uuid "396f37b4-3b8b-49ac-ad5c-39788a344392")
+	)
+	(wire
+		(pts
+			(xy 33.02 91.44) (xy 39.37 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a546253-ae7e-4613-b9f3-689107de51f5")
 	)
 	(wire
 		(pts
@@ -10167,7 +10207,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 91.44) (xy 39.37 91.44)
+			(xy 26.67 91.44) (xy 33.02 91.44)
 		)
 		(stroke
 			(width 0)
@@ -10187,17 +10227,7 @@
 	)
 	(wire
 		(pts
-			(xy 285.75 199.39) (xy 292.1 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "400adab0-89a8-4706-8837-d4b2893a64fb")
-	)
-	(wire
-		(pts
-			(xy 33.02 83.82) (xy 39.37 83.82)
+			(xy 26.67 83.82) (xy 33.02 83.82)
 		)
 		(stroke
 			(width 0)
@@ -10224,6 +10254,16 @@
 			(type default)
 		)
 		(uuid "44f420c8-6d13-40e0-9f31-6dbfb4f65161")
+	)
+	(wire
+		(pts
+			(xy 198.12 198.12) (xy 204.47 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44ff45f6-6e57-4d1c-8a44-95b87b88258a")
 	)
 	(wire
 		(pts
@@ -10267,16 +10307,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 83.82) (xy 44.45 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47987572-6ba6-499e-be41-64d0a4091a9a")
-	)
-	(wire
-		(pts
 			(xy 60.96 210.82) (xy 60.96 213.36)
 		)
 		(stroke
@@ -10304,16 +10334,6 @@
 			(type default)
 		)
 		(uuid "494b9489-693d-4860-9c60-a9b2ab668f6f")
-	)
-	(wire
-		(pts
-			(xy 36.83 66.04) (xy 43.18 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c332416-ebc8-4990-b9ea-ada7306e64d6")
 	)
 	(wire
 		(pts
@@ -10387,13 +10407,13 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 129.54) (xy 39.37 129.54)
+			(xy 45.72 83.82) (xy 52.07 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "56ab854d-6db3-47ad-bb50-cadd72a29818")
+		(uuid "5656407c-58f8-40a3-ae63-d6aed648c140")
 	)
 	(wire
 		(pts
@@ -10487,6 +10507,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 66.04) (xy 44.45 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "603ba78d-c0aa-494b-9c72-19511e9f18cb")
+	)
+	(wire
+		(pts
 			(xy 109.22 95.25) (xy 109.22 97.79)
 		)
 		(stroke
@@ -10517,16 +10547,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 58.42) (xy 43.18 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63674b51-3989-4235-a4f2-3a7b9c6fff40")
-	)
-	(wire
-		(pts
 			(xy 60.96 220.98) (xy 60.96 223.52)
 		)
 		(stroke
@@ -10534,16 +10554,6 @@
 			(type default)
 		)
 		(uuid "656dc41a-ef91-476c-b3a1-1775586e6cf0")
-	)
-	(wire
-		(pts
-			(xy 146.05 111.76) (xy 139.7 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "660f7b47-19b1-4839-b39e-4e88ae1e3695")
 	)
 	(wire
 		(pts
@@ -10617,16 +10627,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 46.99) (xy 134.62 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d83f6ef-add3-4246-ae8d-312437e7f2eb")
-	)
-	(wire
-		(pts
 			(xy 50.8 72.39) (xy 53.34 72.39)
 		)
 		(stroke
@@ -10654,16 +10654,6 @@
 			(type default)
 		)
 		(uuid "72dd976e-14c6-430e-a4a0-f944a6be7236")
-	)
-	(wire
-		(pts
-			(xy 204.47 198.12) (xy 210.82 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72e0ca7f-4e5c-4ded-9114-056bccb546bf")
 	)
 	(wire
 		(pts
@@ -10717,6 +10707,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 111.76) (xy 139.7 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76cb8569-2577-4c8e-8ab7-86870a5fbd82")
+	)
+	(wire
+		(pts
 			(xy 53.34 120.65) (xy 53.34 123.19)
 		)
 		(stroke
@@ -10727,7 +10727,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 129.54) (xy 53.34 129.54)
+			(xy 33.02 129.54) (xy 39.37 129.54)
 		)
 		(stroke
 			(width 0)
@@ -10747,23 +10747,13 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 199.39) (xy 279.4 199.39)
+			(xy 185.42 198.12) (xy 191.77 198.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7acd4f79-bc62-4e0d-a56a-4127e5392303")
-	)
-	(wire
-		(pts
-			(xy 26.67 91.44) (xy 33.02 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b26f597-f118-4c6c-b162-8efefa214a77")
+		(uuid "7da7472a-93bd-400c-a5cc-39ad789161b1")
 	)
 	(wire
 		(pts
@@ -10857,6 +10847,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 198.12) (xy 198.12 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8865438e-0a36-4856-806a-e834b7ddadde")
+	)
+	(wire
+		(pts
 			(xy 101.6 190.5) (xy 101.6 193.04)
 		)
 		(stroke
@@ -10904,6 +10904,16 @@
 			(type default)
 		)
 		(uuid "90cbe3eb-66ed-4207-a16c-ba80d2e8de5a")
+	)
+	(wire
+		(pts
+			(xy 285.75 199.39) (xy 292.1 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90fbf6b0-c080-452c-9c5c-3ff804fb3d89")
 	)
 	(wire
 		(pts
@@ -10967,16 +10977,6 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 205.74) (xy 191.77 205.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9873aa8e-d597-454f-b2ab-f34297afccf0")
-	)
-	(wire
-		(pts
 			(xy 60.96 231.14) (xy 60.96 233.68)
 		)
 		(stroke
@@ -10984,6 +10984,16 @@
 			(type default)
 		)
 		(uuid "991f62f8-9f4e-4878-a0a9-0fc8c8b871da")
+	)
+	(wire
+		(pts
+			(xy 134.62 46.99) (xy 137.16 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "995beeb8-4867-46fb-bb0c-5278fb408e23")
 	)
 	(wire
 		(pts
@@ -11017,6 +11027,16 @@
 	)
 	(wire
 		(pts
+			(xy 285.75 207.01) (xy 292.1 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b59279a-5c4f-45e9-a460-147d65a0d09f")
+	)
+	(wire
+		(pts
 			(xy 50.8 58.42) (xy 50.8 57.15)
 		)
 		(stroke
@@ -11024,16 +11044,6 @@
 			(type default)
 		)
 		(uuid "9c44eb49-08b1-461a-9f5d-beec651e902f")
-	)
-	(wire
-		(pts
-			(xy 44.45 83.82) (xy 52.07 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c9817a9-acb7-4d42-bfa9-33ee16b83146")
 	)
 	(wire
 		(pts
@@ -11087,23 +11097,13 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 119.38) (xy 146.05 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3c613d7-0a81-4d53-a00b-f408a27dac7b")
-	)
-	(wire
-		(pts
 			(xy 279.4 207.01) (xy 285.75 207.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a4c130dd-5dd9-4117-85a6-6d182f4948bf")
+		(uuid "a39368b6-1325-4262-8cf3-c6a6c53e79e2")
 	)
 	(wire
 		(pts
@@ -11257,13 +11257,13 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 205.74) (xy 204.47 205.74)
+			(xy 204.47 198.12) (xy 210.82 198.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b3fa0afa-6765-4e0e-a712-3a619fe3d078")
+		(uuid "b404ec50-7635-49df-824b-eff49f2a0c2c")
 	)
 	(wire
 		(pts
@@ -11287,16 +11287,6 @@
 	)
 	(wire
 		(pts
-			(xy 273.05 207.01) (xy 279.4 207.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bbf45eb5-be03-4c44-8c08-c4fe0d44df52")
-	)
-	(wire
-		(pts
 			(xy 256.54 196.85) (xy 256.54 199.39)
 		)
 		(stroke
@@ -11307,13 +11297,13 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 119.38) (xy 139.7 119.38)
+			(xy 44.45 58.42) (xy 50.8 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bd5d8dc9-3ec6-4339-aa0d-2e4588a259b3")
+		(uuid "bdad1013-f418-4c2a-8767-48cc38995946")
 	)
 	(wire
 		(pts
@@ -11347,16 +11337,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 111.76) (xy 133.35 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c094f9fe-694e-4f7f-8fec-d5f29e5a01a2")
-	)
-	(wire
-		(pts
 			(xy 50.8 74.93) (xy 53.34 74.93)
 		)
 		(stroke
@@ -11367,13 +11347,13 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 205.74) (xy 198.12 205.74)
+			(xy 133.35 119.38) (xy 139.7 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c1c30070-6792-4d6f-aa21-ce54044be65b")
+		(uuid "c13ba942-35a7-4ff5-a650-18401b3ec67e")
 	)
 	(wire
 		(pts
@@ -11457,16 +11437,6 @@
 	)
 	(wire
 		(pts
-			(xy 298.45 199.39) (xy 292.1 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd56db2e-84c0-4917-8505-4c9ef29ffe78")
-	)
-	(wire
-		(pts
 			(xy 60.96 236.22) (xy 60.96 238.76)
 		)
 		(stroke
@@ -11527,6 +11497,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 83.82) (xy 45.72 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d53cb43b-600e-49f5-8c8d-079e5b9bfa35")
+	)
+	(wire
+		(pts
 			(xy 210.82 181.61) (xy 210.82 184.15)
 		)
 		(stroke
@@ -11554,6 +11534,16 @@
 			(type default)
 		)
 		(uuid "d680d184-c36b-4dfd-911f-3d0b203a50d0")
+	)
+	(wire
+		(pts
+			(xy 292.1 207.01) (xy 298.45 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6d91ae8-cd19-4cd7-b94c-699fe5eeabe4")
 	)
 	(wire
 		(pts
@@ -11597,26 +11587,6 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 198.12) (xy 185.42 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd12c7b6-0550-4f82-88c7-6abefca0bcb5")
-	)
-	(wire
-		(pts
-			(xy 292.1 207.01) (xy 298.45 207.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e23f025d-cec7-4ae4-a97b-2f8b75ca673f")
-	)
-	(wire
-		(pts
 			(xy 60.96 182.88) (xy 60.96 185.42)
 		)
 		(stroke
@@ -11624,6 +11594,16 @@
 			(type default)
 		)
 		(uuid "e2c8c316-a907-4974-be7d-3b24cf2959a2")
+	)
+	(wire
+		(pts
+			(xy 39.37 91.44) (xy 45.72 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2e83b3f-2bdd-453d-bbee-521238ad2e8d")
 	)
 	(wire
 		(pts
@@ -11644,16 +11624,6 @@
 			(type default)
 		)
 		(uuid "e41534d3-0893-4680-8bd4-16fe3cac368e")
-	)
-	(wire
-		(pts
-			(xy 191.77 198.12) (xy 198.12 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6286c38-b758-4cdf-9afc-837ca7a7a70c")
 	)
 	(wire
 		(pts
@@ -11684,6 +11654,16 @@
 			(type default)
 		)
 		(uuid "e98d1d7c-3449-4950-a697-6fd23374ae7b")
+	)
+	(wire
+		(pts
+			(xy 33.02 115.57) (xy 53.34 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea606689-9a7e-42a4-bf2c-4205479b3ca2")
 	)
 	(wire
 		(pts
@@ -11787,6 +11767,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 58.42) (xy 44.45 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f18d8d54-2924-4a57-a2a4-a0e12034e103")
+	)
+	(wire
+		(pts
 			(xy 50.8 57.15) (xy 53.34 57.15)
 		)
 		(stroke
@@ -11797,7 +11787,7 @@
 	)
 	(wire
 		(pts
-			(xy 285.75 207.01) (xy 292.1 207.01)
+			(xy 273.05 207.01) (xy 279.4 207.01)
 		)
 		(stroke
 			(width 0)
@@ -11867,7 +11857,17 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 199.39) (xy 285.75 199.39)
+			(xy 139.7 111.76) (xy 146.05 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa06e6af-2600-44bd-83f0-c10dae4afc3d")
+	)
+	(wire
+		(pts
+			(xy 273.05 199.39) (xy 279.4 199.39)
 		)
 		(stroke
 			(width 0)
@@ -12157,93 +12157,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 146.05 115.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "03efeadb-4e8c-4e2c-a6fc-23b95443a4dc")
-		(property "Reference" "C226"
-			(at 146.05 113.792 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 146.05 117.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 147.0152 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 146.05 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 146.05 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 146.05 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 146.05 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9ec08518-ce18-4172-9664-71d40d7de7a6")
-		)
-		(pin "2"
-			(uuid "25cde559-eef0-4361-a6c2-6487bf8a9fe7")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C226")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 172.72 201.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12331,15 +12244,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 39.37 87.63 0)
+		(at 152.4 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "06a2bcd0-0af1-44a4-b567-11cbf0194c2d")
-		(property "Reference" "C207"
-			(at 39.37 85.852 0)
+		(uuid "0ac9b800-7dd0-4983-996d-98be874c4ab2")
+		(property "Reference" "C225"
+			(at 152.4 113.792 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12348,7 +12261,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 39.37 89.662 0)
+			(at 152.4 117.602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12356,8 +12269,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 40.3352 91.44 0)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 153.3652 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12366,7 +12279,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 87.63 0)
+			(at 152.4 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12375,7 +12288,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 39.37 87.63 0)
+			(at 152.4 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12383,8 +12296,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C47339"
-			(at 39.37 87.63 0)
+		(property "LCSC" "C76591"
+			(at 152.4 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12392,8 +12305,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 39.37 87.63 0)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 152.4 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12402,15 +12315,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "765d19bc-0b71-46e4-ab20-4ecb1c1e3e47")
+			(uuid "671bcee6-c6c8-4e3e-b45e-ebec1953d295")
 		)
 		(pin "2"
-			(uuid "eb3341ee-5aac-4854-b150-b010bb39d923")
+			(uuid "6bc689f0-0cce-4617-a8ff-4a88dd7c0a01")
 		)
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C207")
+					(reference "C225")
 					(unit 1)
 				)
 			)
@@ -12635,6 +12548,93 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 45.72 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "173d4b10-acd1-49c8-9c79-0426c4678b1a")
+		(property "Reference" "C208"
+			(at 45.72 85.852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 45.72 89.662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 46.6852 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 45.72 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 45.72 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 45.72 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "91716416-c712-4a95-9bed-39da4a48392d")
+		)
+		(pin "2"
+			(uuid "8f293c2f-d0e9-4d0f-a338-5aab4edc8263")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C208")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 273.05 203.2 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12722,15 +12722,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 279.4 203.2 0)
+		(at 146.05 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "1bc9d527-1dd5-4b4f-972e-b05105bfe4e5")
-		(property "Reference" "C245"
-			(at 279.4 201.422 0)
+		(uuid "1d0f14ee-9b1e-4167-b7f7-3bd17a96da89")
+		(property "Reference" "C226"
+			(at 146.05 113.792 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12739,7 +12739,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 279.4 205.232 0)
+			(at 146.05 117.602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12747,8 +12747,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 280.3652 207.01 0)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 147.0152 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12757,7 +12757,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 279.4 203.2 0)
+			(at 146.05 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12766,7 +12766,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 279.4 203.2 0)
+			(at 146.05 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12774,8 +12774,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C47339"
-			(at 279.4 203.2 0)
+		(property "LCSC" "C76591"
+			(at 146.05 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12783,8 +12783,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 279.4 203.2 0)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 146.05 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12793,15 +12793,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "c514438e-f1ca-47f0-ba3b-dc66780c88dd")
+			(uuid "c743318e-9520-4e3c-a6fe-257942d5fa01")
 		)
 		(pin "2"
-			(uuid "342621b8-85a4-4322-b72a-7b7e9d9fe6f2")
+			(uuid "be5c503b-62d2-4b94-875c-a30ed8545142")
 		)
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C245")
+					(reference "C226")
 					(unit 1)
 				)
 			)
@@ -14404,15 +14404,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 292.1 203.2 0)
+		(at 139.7 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "1f143de3-1d17-46c7-a9e7-6b730bcf404f")
-		(property "Reference" "C243"
-			(at 292.1 201.422 0)
+		(uuid "1f306a40-7a60-4111-b886-07b6f6ae70af")
+		(property "Reference" "C227"
+			(at 139.7 113.792 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14421,7 +14421,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 292.1 205.232 0)
+			(at 139.7 117.602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14429,8 +14429,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 293.0652 207.01 0)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 140.6652 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14439,7 +14439,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 292.1 203.2 0)
+			(at 139.7 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14448,7 +14448,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 292.1 203.2 0)
+			(at 139.7 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14456,8 +14456,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C47339"
-			(at 292.1 203.2 0)
+		(property "LCSC" "C76591"
+			(at 139.7 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14465,8 +14465,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 292.1 203.2 0)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 139.7 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14475,15 +14475,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "573540be-da6c-4c08-9503-f5983d896acc")
+			(uuid "b7ea251c-9bb0-4ae5-9cb8-a04b160a3843")
 		)
 		(pin "2"
-			(uuid "0a4232fe-90ce-4092-9e33-815bdffb8d9b")
+			(uuid "99e2b049-b8ec-40ef-9841-6444b1d694e8")
 		)
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C243")
+					(reference "C227")
 					(unit 1)
 				)
 			)
@@ -14643,15 +14643,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 152.4 115.57 0)
+		(at 129.54 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "298683ff-fa5e-4627-a61b-018df9d7767a")
-		(property "Reference" "C225"
-			(at 152.4 113.792 0)
+		(uuid "2c74bad2-c582-422c-9fae-c740f0ad2094")
+		(property "Reference" "C222"
+			(at 129.54 94.742 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14660,7 +14660,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 152.4 117.602 0)
+			(at 129.54 98.552 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14668,8 +14668,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 153.3652 119.38 0)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 130.5052 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14678,7 +14678,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 115.57 0)
+			(at 129.54 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14687,7 +14687,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 152.4 115.57 0)
+			(at 129.54 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14695,8 +14695,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C47339"
-			(at 152.4 115.57 0)
+		(property "LCSC" "C76591"
+			(at 129.54 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14704,95 +14704,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 152.4 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3a5aab9a-1a9d-4dab-bd19-2e04ce475530")
-		)
-		(pin "2"
-			(uuid "eea8f2e2-858f-4c66-81c9-d9095c71bd32")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C225")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 204.47 201.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2c35c45f-4ee2-406d-9573-aaa5e16ac412")
-		(property "Reference" "C241"
-			(at 204.47 200.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 204.47 203.962 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 205.4352 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 204.47 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 204.47 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 204.47 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 204.47 201.93 0)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 129.54 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14801,15 +14714,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "dfc48a86-0422-4961-ae7e-feb4c7eb2691")
+			(uuid "b81a077f-1ce8-4c15-9a78-7ed6fdc05965")
 		)
 		(pin "2"
-			(uuid "7e04a3b5-fba2-4f11-8f03-7d2a1f1875d0")
+			(uuid "a3cfc18f-ee44-405a-a796-e98e05c9592c")
 		)
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C241")
+					(reference "C222")
 					(unit 1)
 				)
 			)
@@ -14883,6 +14796,93 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 285.75 203.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2edf7ab9-7d82-4016-968b-f72612af343a")
+		(property "Reference" "C244"
+			(at 285.75 201.422 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 285.75 205.232 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 286.7152 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 285.75 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 285.75 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 285.75 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 285.75 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a0d76b5f-73a4-432a-85ae-27360c99195d")
+		)
+		(pin "2"
+			(uuid "7597fff2-c575-424e-b029-136e53a94b79")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C244")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+1V0")
 		(at 199.39 181.61 0)
 		(unit 1)
@@ -14942,93 +14942,6 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
 					(reference "#PWR052")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 134.62 50.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "31c53fb0-4c41-43ce-a713-9f30ba88847d")
-		(property "Reference" "C215"
-			(at 134.62 49.022 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 134.62 52.832 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 135.5852 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 134.62 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 134.62 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 134.62 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 134.62 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9a9608c5-f499-42de-a074-bca311d8c8e8")
-		)
-		(pin "2"
-			(uuid "ba720923-7c52-45d3-89bd-15db17adf05e")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C215")
 					(unit 1)
 				)
 			)
@@ -15122,180 +15035,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 198.12 201.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3338c2c8-59e0-42e2-b41d-fc0e244a901b")
-		(property "Reference" "C240"
-			(at 198.12 200.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 198.12 203.962 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 199.0852 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 198.12 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 198.12 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 198.12 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 198.12 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2e0a090d-27c6-4e78-9821-5bf512cb39cc")
-		)
-		(pin "2"
-			(uuid "a2421713-2d65-44b4-a13b-fdc9f8160c74")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C240")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 298.45 203.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "361ffb49-0b5c-4530-bb19-555c0bc0f03c")
-		(property "Reference" "C242"
-			(at 298.45 201.422 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 298.45 205.232 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 299.4152 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 298.45 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 298.45 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 298.45 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 298.45 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b27c8145-88f9-4922-90dd-cd6821b57fa8")
-		)
-		(pin "2"
-			(uuid "7cb7fd96-ec86-4b24-80eb-46b2a9dc799c")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C242")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+1V0")
 		(at 118.11 73.66 0)
 		(unit 1)
@@ -15362,15 +15101,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 148.59 66.04 0)
+		(at 33.02 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "3d7fd4fc-d0c4-4e78-b568-5251dd946579")
-		(property "Reference" "C217"
-			(at 148.59 64.262 0)
+		(uuid "40bbba98-5273-465a-9bf5-727ed4ff8ba5")
+		(property "Reference" "C206"
+			(at 33.02 85.852 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15379,7 +15118,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 148.59 68.072 0)
+			(at 33.02 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15387,8 +15126,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 149.5552 69.85 0)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 33.9852 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15397,7 +15136,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 66.04 0)
+			(at 33.02 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15406,7 +15145,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 148.59 66.04 0)
+			(at 33.02 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15414,8 +15153,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C47339"
-			(at 148.59 66.04 0)
+		(property "LCSC" "C76591"
+			(at 33.02 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15423,8 +15162,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 148.59 66.04 0)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 33.02 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15433,15 +15172,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "991f2258-1fda-4a80-8e24-48a5597edb90")
+			(uuid "b7861c84-56db-457b-ad1f-bb35dce5f3bb")
 		)
 		(pin "2"
-			(uuid "ccf5611e-f06e-44a6-855a-fb7a9b6c7849")
+			(uuid "042c85ff-bf17-47c0-9882-9cf400c65d54")
 		)
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C217")
+					(reference "C206")
 					(unit 1)
 				)
 			)
@@ -15536,6 +15275,93 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 33.02 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "46587846-ab3a-4535-b6ae-332d3cc7bd2e")
+		(property "Reference" "C211"
+			(at 33.02 117.602 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 33.02 121.412 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 33.9852 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.02 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 33.02 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 33.02 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 33.02 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d8321458-0db4-41e8-968a-a1355cd2c54f")
+		)
+		(pin "2"
+			(uuid "b2b6b88f-3553-4349-a0ee-3bb0d69d7715")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C211")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 123.19 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15623,15 +15449,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 43.18 62.23 0)
+		(at 292.1 203.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "474b6d50-5e11-4736-93d5-c83d6c948eb0")
-		(property "Reference" "C203"
-			(at 43.18 60.452 0)
+		(uuid "48858eef-4f00-4702-acc0-e3c603456756")
+		(property "Reference" "C243"
+			(at 292.1 201.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15640,7 +15466,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 43.18 64.262 0)
+			(at 292.1 205.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15648,8 +15474,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 44.1452 66.04 0)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 293.0652 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15658,7 +15484,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 43.18 62.23 0)
+			(at 292.1 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15667,7 +15493,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 43.18 62.23 0)
+			(at 292.1 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15675,8 +15501,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C47339"
-			(at 43.18 62.23 0)
+		(property "LCSC" "C76591"
+			(at 292.1 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15684,8 +15510,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 43.18 62.23 0)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 292.1 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15694,15 +15520,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "8aa1f8de-f397-4efd-987f-8c8f6b70d2dd")
+			(uuid "bc5b5cfb-4e2c-4399-ae01-dc535b34b03a")
 		)
 		(pin "2"
-			(uuid "4cd768f4-1d86-45f2-b7e1-ce0c4cd6be99")
+			(uuid "2e0fec03-df9d-4283-8dc9-3212c57d6023")
 		)
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C203")
+					(reference "C243")
 					(unit 1)
 				)
 			)
@@ -15951,180 +15777,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 44.45 87.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5227665f-8952-47df-befc-21f469760fa8")
-		(property "Reference" "C208"
-			(at 44.45 85.852 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 44.45 89.662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 45.4152 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 44.45 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 44.45 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 44.45 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 44.45 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1a11a88b-eb88-40d2-9b36-cefc65cf3270")
-		)
-		(pin "2"
-			(uuid "84e38493-ec2f-4093-ac73-3aa57b96ee75")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C208")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 139.7 115.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "566c6340-41a2-4d6e-8880-fe89d71c9da6")
-		(property "Reference" "C227"
-			(at 139.7 113.792 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 139.7 117.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 140.6652 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 139.7 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 139.7 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 139.7 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 139.7 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f287c839-1e4a-4d92-8ca3-a3c3bc67eb5d")
-		)
-		(pin "2"
-			(uuid "766f2f3b-b68b-41e0-93ed-cb01a7c2f3e1")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C227")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 179.07 201.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16270,6 +15922,93 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
 					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 44.45 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "603af516-935d-42f1-b119-c396624eb04d")
+		(property "Reference" "C203"
+			(at 44.45 60.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 44.45 64.262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 45.4152 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 44.45 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 44.45 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 44.45 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 44.45 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "200289ef-adb3-4aef-aa7b-00f64d52dc9a")
+		)
+		(pin "2"
+			(uuid "7acf65d1-942e-411e-9ee8-c72eb83e264d")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C203")
 					(unit 1)
 				)
 			)
@@ -16475,6 +16214,93 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 132.08 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "67736b52-dfc1-4b65-aab4-f319925de755")
+		(property "Reference" "C219"
+			(at 132.08 75.692 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 132.08 79.502 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 133.0452 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 132.08 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 132.08 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 132.08 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 132.08 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8489c5ff-b55c-42a2-b3a2-4157314d0ccc")
+		)
+		(pin "2"
+			(uuid "c47073ee-68c8-49b8-a845-0e6297948fa2")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C219")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Schematic-Lib-PhilsLab:FB_0402")
 		(at 142.24 46.99 0)
 		(unit 1)
@@ -16499,7 +16325,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FB_0402"
+		(property "Footprint" "Footprint-Lib-PhilsLab:FB_0402"
 			(at 142.24 46.99 0)
 			(effects
 				(font
@@ -16576,93 +16402,6 @@
 			(project ""
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
 					(reference "FB200")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 130.81 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6c67ebdc-04cd-4e34-b696-85b8c2ebc7a0")
-		(property "Reference" "C231"
-			(at 130.81 137.922 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 130.81 141.732 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 131.7752 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 130.81 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 130.81 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 130.81 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 130.81 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "891d38ac-c80d-449e-b1bf-f3306e32a40d")
-		)
-		(pin "2"
-			(uuid "f026d91e-47ab-4482-bff2-608afe609246")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C231")
 					(unit 1)
 				)
 			)
@@ -18267,15 +18006,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 33.02 87.63 0)
+		(at 134.62 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "6f8bda6a-6a4e-4ee3-b0ab-2b0874d0c37a")
-		(property "Reference" "C206"
-			(at 33.02 85.852 0)
+		(uuid "703f6664-665c-4a31-a08a-c8b2d1a601a8")
+		(property "Reference" "C215"
+			(at 134.62 49.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18284,7 +18023,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 33.02 89.662 0)
+			(at 134.62 52.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18292,8 +18031,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 33.9852 91.44 0)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 135.5852 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18302,7 +18041,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 87.63 0)
+			(at 134.62 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18311,7 +18050,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 33.02 87.63 0)
+			(at 134.62 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18319,8 +18058,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C47339"
-			(at 33.02 87.63 0)
+		(property "LCSC" "C76591"
+			(at 134.62 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18328,8 +18067,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 33.02 87.63 0)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 134.62 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18338,15 +18077,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "06171980-2aa6-4136-b62e-68aa1d9e6d93")
+			(uuid "8ae5df9e-1997-4dce-bcf7-1d6244947695")
 		)
 		(pin "2"
-			(uuid "5b27195a-a5f4-4b73-a488-bf976b8c4b79")
+			(uuid "5901c33d-6527-4a05-96be-c5c58d68cf54")
 		)
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C206")
+					(reference "C215")
 					(unit 1)
 				)
 			)
@@ -18508,93 +18247,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 185.42 201.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "78174791-b8a1-401c-9c2c-8940ae2a072b")
-		(property "Reference" "C238"
-			(at 185.42 200.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 185.42 203.962 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 186.3852 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 185.42 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 185.42 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 185.42 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 185.42 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "96500fb1-0405-4e46-b8ca-aaf459f73fdf")
-		)
-		(pin "2"
-			(uuid "e32910c4-df2d-4754-8599-89d9097e4012")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C238")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 124.46 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18682,15 +18334,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 36.83 62.23 0)
+		(at 39.37 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "7f98526f-df27-4c93-9cb1-e6130ee241e5")
-		(property "Reference" "C202"
-			(at 36.83 60.452 0)
+		(uuid "7d25ceac-8b97-4af4-a81d-ac4dd11fc0bf")
+		(property "Reference" "C214"
+			(at 39.37 131.572 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18699,7 +18351,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 36.83 64.262 0)
+			(at 39.37 135.382 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18707,8 +18359,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 37.7952 66.04 0)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 40.3352 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18717,7 +18369,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 36.83 62.23 0)
+			(at 39.37 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18726,7 +18378,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 36.83 62.23 0)
+			(at 39.37 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18734,8 +18386,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C47339"
-			(at 36.83 62.23 0)
+		(property "LCSC" "C76591"
+			(at 39.37 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18743,8 +18395,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 36.83 62.23 0)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 39.37 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18753,15 +18405,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "c7787a90-9f0d-46ca-9392-7cd4a4a01f1f")
+			(uuid "680fb497-bedb-42ca-be4d-70b494a7cb9f")
 		)
 		(pin "2"
-			(uuid "c06f182f-f919-4d7c-8109-d708e3484f56")
+			(uuid "ff8c7afe-b78d-45c4-8716-00351fd00698")
 		)
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C202")
+					(reference "C214")
 					(unit 1)
 				)
 			)
@@ -18970,93 +18622,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 133.35 115.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "85013a55-2cf2-45a1-838f-fd113cccbc86")
-		(property "Reference" "C228"
-			(at 133.35 113.792 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 133.35 117.602 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 134.3152 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 133.35 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 133.35 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 133.35 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 133.35 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ee80708e-5813-4c81-ba7c-8e8ff65681c8")
-		)
-		(pin "2"
-			(uuid "3120c665-14b3-43e7-8e1b-b7983a4b5137")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C228")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 125.73 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19137,6 +18702,180 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
 					(reference "C220")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 204.47 201.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "86604150-c047-4582-b927-d6f79c59726b")
+		(property "Reference" "C241"
+			(at 204.47 200.152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 204.47 203.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 205.4352 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 204.47 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 204.47 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 204.47 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 204.47 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4ab39c64-dee3-49fb-a1e6-c6e296eb63cc")
+		)
+		(pin "2"
+			(uuid "88e2fe62-aa27-4af7-beed-f18e4b35d5de")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C241")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 139.7 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8d019ec8-02ec-4bca-a88c-93032123bb7a")
+		(property "Reference" "C218"
+			(at 139.7 69.342 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 139.7 73.152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 140.6652 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 139.7 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 139.7 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 139.7 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ec98a292-7006-4858-b0e2-480a9bd7f672")
+		)
+		(pin "2"
+			(uuid "8e7e9ade-b576-469b-be70-653c94a49851")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C218")
 					(unit 1)
 				)
 			)
@@ -19358,6 +19097,93 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
 					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 191.77 201.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a364d221-1034-42cf-9592-0c80e581fe83")
+		(property "Reference" "C239"
+			(at 191.77 200.152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 191.77 203.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 192.7352 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 191.77 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 191.77 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 191.77 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 191.77 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9c0d45c8-ba35-4743-a9fe-2f615174de9a")
+		)
+		(pin "2"
+			(uuid "92ac4c35-7f48-4415-a519-4c9fa7f75c72")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C239")
 					(unit 1)
 				)
 			)
@@ -20894,6 +20720,93 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 298.45 203.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a3fefc0b-3223-4a21-baa6-09bdba445fb2")
+		(property "Reference" "C242"
+			(at 298.45 201.422 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 298.45 205.232 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 299.4152 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 298.45 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 298.45 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 298.45 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 298.45 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7609627-7c60-4bcc-9766-b70fe9050fb0")
+		)
+		(pin "2"
+			(uuid "c45625ed-4e60-435c-aa62-f244f6cb53ad")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C242")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 19.05 91.44 0)
 		(unit 1)
@@ -20955,6 +20868,93 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
 					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 39.37 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a60daffa-5fc0-4468-bc5a-80a0759a7ef4")
+		(property "Reference" "C207"
+			(at 39.37 85.852 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 39.37 89.662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 40.3352 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 39.37 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 39.37 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 39.37 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 39.37 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c376b06-8c1b-4f63-9f57-7624b2807c49")
+		)
+		(pin "2"
+			(uuid "cbd47bd3-307c-4bce-bf3d-8192510db99a")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C207")
 					(unit 1)
 				)
 			)
@@ -21335,6 +21335,180 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 38.1 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aedf16d8-4610-4e05-8c87-91deeabd6336")
+		(property "Reference" "C202"
+			(at 38.1 60.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 38.1 64.262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 39.0652 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.1 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 38.1 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 38.1 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 38.1 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "98bc22f1-546f-4f2a-898d-07a34fbd78f5")
+		)
+		(pin "2"
+			(uuid "fe092dfa-3dc4-41d7-b1da-163ec48f153e")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C202")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 185.42 201.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "afbb7ff7-5259-4919-a0e6-caf690e1d10d")
+		(property "Reference" "C238"
+			(at 185.42 200.152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 185.42 203.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 186.3852 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 185.42 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 185.42 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 185.42 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0e08365a-9cc3-4a85-b89a-0dc886518ce6")
+		)
+		(pin "2"
+			(uuid "b2387c66-dc83-4e62-be75-1ef6370b1274")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C238")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 120.65 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21509,6 +21683,93 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 148.59 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b63b177d-1c8e-4b63-9d1d-a0c855f147e8")
+		(property "Reference" "C217"
+			(at 148.59 64.262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 148.59 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 149.5552 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 148.59 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 148.59 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 148.59 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 148.59 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dad9350f-b5e4-40dd-8fc3-e8c12db918d6")
+		)
+		(pin "2"
+			(uuid "d791c52f-2e27-4b0f-964f-2dab479df333")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C217")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 33.02 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -21596,15 +21857,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 191.77 201.93 0)
+		(at 279.4 203.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "bd1d0517-f256-49ad-b8fe-2e1003c40be6")
-		(property "Reference" "C239"
-			(at 191.77 200.152 0)
+		(uuid "bb74b6d5-5c81-4ac5-8066-f8600c39c452")
+		(property "Reference" "C245"
+			(at 279.4 201.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21613,7 +21874,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 191.77 203.962 0)
+			(at 279.4 205.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21621,8 +21882,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 192.7352 205.74 0)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 280.3652 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21631,7 +21892,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 191.77 201.93 0)
+			(at 279.4 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21640,7 +21901,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 191.77 201.93 0)
+			(at 279.4 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21648,8 +21909,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C47339"
-			(at 191.77 201.93 0)
+		(property "LCSC" "C76591"
+			(at 279.4 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21657,8 +21918,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 191.77 201.93 0)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 279.4 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21667,15 +21928,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "a8a88eff-8d5c-4e08-bbc5-7f9dfe8f957b")
+			(uuid "db188b7b-d0cc-4759-9125-bf87e84fc29c")
 		)
 		(pin "2"
-			(uuid "4c712e43-7341-448a-99be-397e918ea225")
+			(uuid "ca21da9c-327a-4263-8a95-1e9c3187ba97")
 		)
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C239")
+					(reference "C245")
 					(unit 1)
 				)
 			)
@@ -21834,93 +22095,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 132.08 77.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c3e0f872-c8ce-4985-80ea-e2596b3f0862")
-		(property "Reference" "C219"
-			(at 132.08 75.692 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 132.08 79.502 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 133.0452 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 132.08 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 132.08 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 132.08 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 132.08 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "07be1917-42b1-4544-b0bf-7e759d9a6efd")
-		)
-		(pin "2"
-			(uuid "6e677d8a-e7a8-4abd-8e22-05c68325071c")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C219")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+1V0")
 		(at 256.54 180.34 0)
 		(unit 1)
@@ -22052,6 +22226,93 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 198.12 201.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c9cb5e18-387c-47f3-abe9-14b76279798a")
+		(property "Reference" "C240"
+			(at 198.12 200.152 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "470n"
+			(at 198.12 203.962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 199.0852 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 198.12 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 198.12 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C76591"
+			(at 198.12 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 198.12 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00e2cd09-f2dd-4e1f-9554-fc95f67889ce")
+		)
+		(pin "2"
+			(uuid "23001e9f-9d3d-4692-9322-919f6ebecba1")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
+					(reference "C240")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 127 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22139,15 +22400,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 33.02 119.38 0)
+		(at 133.35 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "cd1c6d0f-b4c5-4abf-8b15-1129375bf702")
-		(property "Reference" "C211"
-			(at 33.02 117.602 0)
+		(uuid "ce7707d8-b6d2-4ba7-9f13-faf4726df744")
+		(property "Reference" "C228"
+			(at 133.35 113.792 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22156,7 +22417,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 33.02 121.412 0)
+			(at 133.35 117.602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22164,8 +22425,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 33.9852 123.19 0)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 134.3152 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22174,7 +22435,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 119.38 0)
+			(at 133.35 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22183,7 +22444,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 33.02 119.38 0)
+			(at 133.35 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22191,8 +22452,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C47339"
-			(at 33.02 119.38 0)
+		(property "LCSC" "C76591"
+			(at 133.35 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22200,95 +22461,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 33.02 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e1a6b488-0c54-4a00-ae66-6baba9d3421e")
-		)
-		(pin "2"
-			(uuid "5fabe5d5-bf2d-42f5-947f-68f2a397791f")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C211")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 129.54 96.52 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ce97aa57-2b96-40e2-b18f-db1de650003a")
-		(property "Reference" "C222"
-			(at 129.54 94.742 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 129.54 98.552 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 130.5052 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 129.54 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 129.54 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 129.54 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 129.54 96.52 0)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 133.35 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22297,15 +22471,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "8ee359b1-5c55-495f-9308-c0a0af0d83f8")
+			(uuid "383bd755-0918-442f-9a43-b1797022fab3")
 		)
 		(pin "2"
-			(uuid "ae0d8dc0-42c7-4521-87a8-28d5f302ff13")
+			(uuid "be2f3fae-8470-460c-94a0-ba6105555b52")
 		)
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C222")
+					(reference "C228")
 					(unit 1)
 				)
 			)
@@ -22371,93 +22545,6 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
 					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 139.7 71.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d2095b86-f0e9-4f4e-bd2b-3b5dfd4dd8f3")
-		(property "Reference" "C218"
-			(at 139.7 69.342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 139.7 73.152 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 140.6652 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 139.7 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 139.7 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 139.7 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 139.7 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "225fc93b-b676-4fc5-9284-464dc534a4af")
-		)
-		(pin "2"
-			(uuid "2af62f20-a7e7-4711-aaf3-f79aa1e15dff")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C218")
 					(unit 1)
 				)
 			)
@@ -24387,15 +24474,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 285.75 203.2 0)
+		(at 130.81 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "eb38c118-13b3-4480-ad79-7ce317da1b3c")
-		(property "Reference" "C244"
-			(at 285.75 201.422 0)
+		(uuid "f03a11d7-f9cd-455e-bcf5-5f00e596d343")
+		(property "Reference" "C231"
+			(at 130.81 137.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24404,7 +24491,7 @@
 			)
 		)
 		(property "Value" "470n"
-			(at 285.75 205.232 0)
+			(at 130.81 141.732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24412,8 +24499,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 286.7152 207.01 0)
+		(property "Footprint" "easyeda2kicad_foorprint:C0201"
+			(at 131.7752 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24422,7 +24509,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 285.75 203.2 0)
+			(at 130.81 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24431,7 +24518,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 285.75 203.2 0)
+			(at 130.81 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24439,8 +24526,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C47339"
-			(at 285.75 203.2 0)
+		(property "LCSC" "C76591"
+			(at 130.81 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24448,8 +24535,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 285.75 203.2 0)
+		(property "Manufacturer Part Number" "C0603X5R1A474MT00NE"
+			(at 130.81 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24458,15 +24545,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "64edd059-2f42-4d19-8e95-f1b2b0616485")
+			(uuid "e2c5f26a-33ba-4d6a-a54e-add22b27632f")
 		)
 		(pin "2"
-			(uuid "0e91904a-193c-48de-9147-973fb5ce0b2b")
+			(uuid "4426f292-17fb-418e-8614-9ada7bd94181")
 		)
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C244")
+					(reference "C231")
 					(unit 1)
 				)
 			)
@@ -24600,93 +24687,6 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
 					(reference "#PWR033")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 39.37 133.35 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "fb0af251-4ffd-4aef-9b15-111368079cc0")
-		(property "Reference" "C214"
-			(at 39.37 131.572 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470n"
-			(at 39.37 135.382 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 40.3352 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 39.37 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 39.37 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47339"
-			(at 39.37 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "CL05A474KP5NNNC"
-			(at 39.37 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d103f344-f269-4fc3-b47e-bdb9062d6c23")
-		)
-		(pin "2"
-			(uuid "dd28d459-8b07-4b4d-9f35-a3a50f0a587f")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/ab61d407-bfb1-4579-a3ba-f95af9d19234"
-					(reference "C214")
 					(unit 1)
 				)
 			)

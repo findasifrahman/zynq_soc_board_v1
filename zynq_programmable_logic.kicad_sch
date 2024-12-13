@@ -12594,7 +12594,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_0402_RED"
+		(property "Footprint" "Footprint-Lib-PhilsLab:LED_0402_RED"
 			(at 154.94 46.99 0)
 			(effects
 				(font

@@ -17817,6 +17817,91 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 59.69 176.53 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "268ec8f1-1118-47b3-9555-31acd440389e")
+		(property "Reference" "R312"
+			(at 59.69 176.53 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Value" "20K"
+			(at 59.436 174.752 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:R0201"
+			(at 59.69 174.752 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 59.69 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 59.69 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C295787"
+			(at 59.69 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0201FR-0720KL"
+			(at 59.69 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "12914b3d-18bd-432d-9273-b604e723be37")
+		)
+		(pin "1"
+			(uuid "4d26735d-0049-4c84-9f5f-a66923cad200")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
+					(reference "R312")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 448.31 132.08 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17929,7 +18014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_0402_RED"
+		(property "Footprint" "Footprint-Lib-PhilsLab:LED_0402_RED"
 			(at 469.9 156.21 0)
 			(effects
 				(font
@@ -18594,91 +18679,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 121.92 168.91 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "381a4fe7-53e1-437e-972c-1664152c527b")
-		(property "Reference" "R319"
-			(at 121.92 168.91 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Value" "20K"
-			(at 121.666 167.132 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 121.92 167.132 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 121.92 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 121.92 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25765"
-			(at 121.92 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "0402WGF2002TCE"
-			(at 121.92 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a6f46ccb-ae35-4ba5-b599-a46172f57f9e")
-		)
-		(pin "1"
-			(uuid "ee274541-c2d3-483a-8cd9-c0a1b4b892b7")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
-					(reference "R319")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Schematic-Lib-PhilsLab:FB_0402")
 		(at 309.88 80.01 0)
 		(unit 1)
@@ -18703,7 +18703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FB_0402"
+		(property "Footprint" "Footprint-Lib-PhilsLab:FB_0402"
 			(at 309.88 80.01 0)
 			(effects
 				(font
@@ -19011,7 +19011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_0402_RED"
+		(property "Footprint" "Footprint-Lib-PhilsLab:LED_0402_RED"
 			(at 29.21 106.68 0)
 			(effects
 				(font
@@ -19512,7 +19512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FB_0402"
+		(property "Footprint" "Footprint-Lib-PhilsLab:FB_0402"
 			(at 344.17 50.8 0)
 			(effects
 				(font
@@ -20329,7 +20329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_0402_RED"
+		(property "Footprint" "Footprint-Lib-PhilsLab:LED_0402_RED"
 			(at 461.01 156.21 0)
 			(effects
 				(font
@@ -20481,7 +20481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FB_0402"
+		(property "Footprint" "Footprint-Lib-PhilsLab:FB_0402"
 			(at 350.52 31.75 0)
 			(effects
 				(font
@@ -20558,6 +20558,91 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
 					(reference "FB301")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 59.69 172.72 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "61e5c3ca-b9de-4786-b779-adc36de61914")
+		(property "Reference" "R310"
+			(at 59.69 172.72 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Value" "20K"
+			(at 59.436 170.942 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:R0201"
+			(at 59.69 170.942 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 59.69 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 59.69 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C295787"
+			(at 59.69 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0201FR-0720KL"
+			(at 59.69 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7569c2e6-892f-4916-8d3f-121e07a0da1d")
+		)
+		(pin "1"
+			(uuid "c01d8859-1d3c-4c63-85d9-c32bb0dd0cde")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
+					(reference "R310")
 					(unit 1)
 				)
 			)
@@ -23326,6 +23411,91 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 99.06 168.91 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a52dfac3-3766-41ae-9158-ea3d6d7208e0")
+		(property "Reference" "R316"
+			(at 99.06 168.91 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Value" "20K"
+			(at 98.806 167.132 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:R0201"
+			(at 99.06 167.132 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 99.06 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 99.06 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C295787"
+			(at 99.06 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0201FR-0720KL"
+			(at 99.06 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "448d7760-d2f9-4ad3-a252-5c21e9b5777f")
+		)
+		(pin "1"
+			(uuid "1bf59346-c7ec-46f6-bbed-b8537a96651c")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
+					(reference "R316")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 469.9 146.05 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -23811,91 +23981,6 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 59.69 180.34 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b60e0f3f-d0d7-437b-a8de-e7a292d3c9bc")
-		(property "Reference" "R314"
-			(at 59.69 180.34 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Value" "20K"
-			(at 59.436 178.562 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 59.69 178.562 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 59.69 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 59.69 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25765"
-			(at 59.69 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "0402WGF2002TCE"
-			(at 59.69 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c65c7c24-79f5-4325-abb9-8a1413ca5ef2")
-		)
-		(pin "1"
-			(uuid "2c4c29a0-bd07-4c22-94ec-d2948e82c30c")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
-					(reference "R314")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
 		(at 76.2 186.69 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -23976,6 +24061,91 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
 					(reference "R313")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 59.69 180.34 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b747b594-32b2-449d-b4be-3be10212fd73")
+		(property "Reference" "R314"
+			(at 59.69 180.34 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Value" "20K"
+			(at 59.436 178.562 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:R0201"
+			(at 59.69 178.562 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 59.69 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 59.69 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C295787"
+			(at 59.69 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0201FR-0720KL"
+			(at 59.69 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "dadff6a7-4b99-4027-a5c4-3aaecd923fd7")
+		)
+		(pin "1"
+			(uuid "30cdc2bc-7dcd-4a4d-89a7-1d7ded7a1a37")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
+					(reference "R314")
 					(unit 1)
 				)
 			)
@@ -24630,176 +24800,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 99.06 168.91 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c4a78d2c-f2b3-49e3-ad47-2a3a5903a6d5")
-		(property "Reference" "R316"
-			(at 99.06 168.91 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Value" "20K"
-			(at 98.806 167.132 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 99.06 167.132 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 99.06 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 99.06 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25765"
-			(at 99.06 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "0402WGF2002TCE"
-			(at 99.06 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c2c0d486-7316-4027-a318-1b6eaeb80dbd")
-		)
-		(pin "1"
-			(uuid "d03c5c94-dd5f-419d-bcfc-9976554689b6")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
-					(reference "R316")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 59.69 176.53 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c4e3e6e0-326a-4a4a-879a-4ed11ec2359a")
-		(property "Reference" "R312"
-			(at 59.69 176.53 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Value" "20K"
-			(at 59.436 174.752 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 59.69 174.752 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 59.69 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 59.69 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25765"
-			(at 59.69 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "0402WGF2002TCE"
-			(at 59.69 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c85fae67-9e5a-4b5c-a92d-acbfb953333b")
-		)
-		(pin "1"
-			(uuid "d242ac86-b9e2-41da-9811-75a16a1654f5")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
-					(reference "R312")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 359.41 54.61 0)
 		(unit 1)
@@ -25062,7 +25062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SKRPANE010"
+		(property "Footprint" "Footprint-Lib-PhilsLab:SKRPANE010"
 			(at 173.99 69.85 0)
 			(effects
 				(font
@@ -25744,6 +25744,91 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+		(at 121.92 168.91 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ed45eff3-03ae-4d78-9869-108797d43a5c")
+		(property "Reference" "R319"
+			(at 121.92 168.91 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Value" "20K"
+			(at 121.666 167.132 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad_foorprint:R0201"
+			(at 121.92 167.132 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 121.92 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C295787"
+			(at 121.92 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0201FR-0720KL"
+			(at 121.92 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "334c4569-79ac-45c6-aac0-9802b243b750")
+		)
+		(pin "1"
+			(uuid "c96173a9-3bca-43f1-98ac-7f470ae16ae7")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
+					(reference "R319")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
 		(at 81.28 186.69 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26369,91 +26454,6 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
 					(reference "#PWR080")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 59.69 172.72 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "fa288945-75cc-40ce-a77b-94a273cce1b4")
-		(property "Reference" "R310"
-			(at 59.69 172.72 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Value" "20K"
-			(at 59.436 170.942 90)
-			(effects
-				(font
-					(size 0.762 0.762)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 59.69 170.942 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 59.69 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 59.69 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C25765"
-			(at 59.69 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part Number" "0402WGF2002TCE"
-			(at 59.69 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "00db15da-e94f-4473-b07f-c599237da0f5")
-		)
-		(pin "1"
-			(uuid "17b4eb91-6bf3-4b85-88fe-eca0b742000b")
-		)
-		(instances
-			(project "zynq_soc_board_v1"
-				(path "/068a81e1-1783-4521-9958-788ddeed3b49/23d95bc7-ff84-410f-aa0f-c06bb4392e8f"
-					(reference "R310")
 					(unit 1)
 				)
 			)

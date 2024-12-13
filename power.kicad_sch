@@ -7586,7 +7586,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SRP0415"
+		(property "Footprint" "Footprint-Lib-PhilsLab:SRP0415"
 			(at 259.08 147.32 0)
 			(effects
 				(font
@@ -8907,7 +8907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SRP0415"
+		(property "Footprint" "Footprint-Lib-PhilsLab:SRP0415"
 			(at 254 30.48 0)
 			(effects
 				(font
@@ -9568,7 +9568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_0402_RED"
+		(property "Footprint" "Footprint-Lib-PhilsLab:LED_0402_RED"
 			(at 154.94 208.28 0)
 			(effects
 				(font
@@ -10168,7 +10168,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SRP0415"
+		(property "Footprint" "Footprint-Lib-PhilsLab:SRP0415"
 			(at 255.27 201.93 0)
 			(effects
 				(font
@@ -10654,7 +10654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SRP0415"
+		(property "Footprint" "Footprint-Lib-PhilsLab:SRP0415"
 			(at 257.81 87.63 0)
 			(effects
 				(font
@@ -14179,7 +14179,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dd875421-89e9-4f82-b9ce-6bc64837991a")
-		(property "Reference" "C1"
+		(property "Reference" "C105"
 			(at 175.26 54.102 0)
 			(effects
 				(font
@@ -14251,7 +14251,7 @@
 		(instances
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/e904f396-2c60-426f-aecf-389e552b5c3a"
-					(reference "C1")
+					(reference "C105")
 					(unit 1)
 				)
 			)
