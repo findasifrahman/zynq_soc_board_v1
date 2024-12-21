@@ -13286,7 +13286,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 167.64) (xy 95.25 167.64)
+			(xy 80.01 167.64) (xy 93.98 167.64)
 		)
 		(stroke
 			(width 0)
@@ -14066,7 +14066,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 170.18) (xy 95.25 170.18)
+			(xy 80.01 170.18) (xy 93.98 170.18)
 		)
 		(stroke
 			(width 0)
@@ -16255,6 +16255,66 @@
 		(uuid "fe489edb-a6f8-4b3d-bb0b-f62bfe6b8af1")
 	)
 	(rectangle
+		(start 81.28 176.53)
+		(end 91.44 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 04397c65-2171-4db5-8708-f517b7865b61)
+	)
+	(rectangle
+		(start 78.74 87.63)
+		(end 90.17 88.9)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 054db58d-6579-4c9f-994d-45e1445ddb04)
+	)
+	(rectangle
+		(start 336.55 72.39)
+		(end 355.6 157.48)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 0f432ac6-d9a6-43e0-8c3c-d5c6f0b8c9c9)
+	)
+	(rectangle
+		(start 81.28 165.1)
+		(end 92.71 170.18)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 19382887-8dce-4b3d-92ff-f538b10b0d99)
+	)
+	(rectangle
+		(start 76.2 25.4)
+		(end 90.17 45.72)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 197f3773-ade6-463a-b160-5581b2b8ea3b)
+	)
+	(rectangle
 		(start 24.13 16.51)
 		(end 102.87 208.28)
 		(stroke
@@ -16265,6 +16325,31 @@
 			(type none)
 		)
 		(uuid 26165165-00f2-44f3-8378-3c1d201c6edd)
+	)
+	(rectangle
+		(start 81.28 157.48)
+		(end 92.71 162.56)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 44b5678e-8b60-4e3a-bbf6-8706607a1b58)
+	)
+	(rectangle
+		(start 77.47 49.53)
+		(end 90.17 66.04)
+		(stroke
+			(width 0)
+			(type dash)
+			(color 255 68 73 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 5244472e-89a2-498b-88e1-642adbc855f8)
 	)
 	(rectangle
 		(start 106.68 16.51)
@@ -16279,6 +16364,30 @@
 		(uuid 5d704806-1500-492b-afcf-23d0f0ace6f1)
 	)
 	(rectangle
+		(start 81.28 173.99)
+		(end 91.44 175.26)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 779693f5-096d-49bf-a8f0-c0115f4aae0c)
+	)
+	(rectangle
+		(start 77.47 77.47)
+		(end 91.44 82.55)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 8f0d128b-0eea-421a-8457-286fcbc9c85a)
+	)
+	(rectangle
 		(start 241.3 44.45)
 		(end 388.62 209.55)
 		(stroke
@@ -16289,6 +16398,42 @@
 			(type none)
 		)
 		(uuid c0015097-9718-4b6a-9159-f503bfe56e3a)
+	)
+	(rectangle
+		(start 81.28 138.43)
+		(end 92.71 154.94)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d16db6d8-249c-456d-817d-2fe03a3ce449)
+	)
+	(rectangle
+		(start 77.47 69.85)
+		(end 91.44 74.93)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d3fef59f-b80b-4c1b-9d5d-aaced8719f7d)
+	)
+	(rectangle
+		(start 78.74 85.09)
+		(end 90.17 86.36)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d576b34a-fd0d-493d-a144-49ca94fec37d)
 	)
 	(rectangle
 		(start 245.11 171.45)
@@ -16316,6 +16461,18 @@
 		)
 		(uuid e599b01e-1caf-4082-b09f-fa4364290049)
 	)
+	(rectangle
+		(start 81.28 114.3)
+		(end 92.71 135.89)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid fafbe57b-2e1c-4285-8b38-5e6c12c00cfe)
+	)
 	(text "ACC  & DAT Connection"
 		(exclude_from_sim no)
 		(at 60.706 14.986 0)
@@ -16326,6 +16483,56 @@
 		)
 		(uuid "062f1894-fc5a-4ec5-b591-91df55d0a293")
 	)
+	(text "DDR_BL1"
+		(exclude_from_sim no)
+		(at 92.202 84.582 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+		)
+		(uuid "40451532-8193-4eca-b172-2a952a42332a")
+	)
+	(text "DDR_ACC"
+		(exclude_from_sim no)
+		(at 339.852 71.374 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "46c32571-f824-437d-a08d-43c8b2c0233b")
+	)
+	(text "DDR_BL3"
+		(exclude_from_sim no)
+		(at 91.694 137.922 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "5a20900f-a4dc-4568-9cfc-aea1867f7f4d")
+	)
+	(text "DDR_BL2"
+		(exclude_from_sim no)
+		(at 85.598 156.972 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "74ae8784-e6ea-4696-aa29-64b57c1ee037")
+	)
+	(text "DDR_BL1"
+		(exclude_from_sim no)
+		(at 84.328 24.384 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7b2d59eb-ce7b-44cb-b2f5-26db12e46e68")
+	)
 	(text "Diff Pair"
 		(exclude_from_sim no)
 		(at 248.92 194.564 0)
@@ -16335,6 +16542,46 @@
 			)
 		)
 		(uuid "90ab93bc-62dc-4bbc-8ad3-25e0c66e25a5")
+	)
+	(text "DDR_BL1"
+		(exclude_from_sim no)
+		(at 94.742 69.342 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+		)
+		(uuid "9375e5c7-f31f-4863-9687-18479f852d20")
+	)
+	(text "DDR_BL0"
+		(exclude_from_sim no)
+		(at 89.154 90.17 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+		)
+		(uuid "a92b9345-4ef6-4f9b-be6b-29645faf98f2")
+	)
+	(text "DDR_BL3"
+		(exclude_from_sim no)
+		(at 86.614 164.846 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "ad91c9d0-09ae-4fc4-bdb4-0a98eee6826a")
+	)
+	(text "DDR_BL0"
+		(exclude_from_sim no)
+		(at 83.312 83.566 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+		)
+		(uuid "b65649b6-136e-44e2-9c85-4bb76d4f9566")
 	)
 	(text "Zynq DDR Interface"
 		(exclude_from_sim no)
@@ -16359,6 +16606,26 @@
 		)
 		(uuid "cf8b40c8-ba79-4620-98f8-60b63c6576ee")
 	)
+	(text "DDR_BL0"
+		(exclude_from_sim no)
+		(at 83.058 67.31 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+		)
+		(uuid "d5a3245f-1053-4729-b771-176654594da8")
+	)
+	(text "DDR_BL2"
+		(exclude_from_sim no)
+		(at 86.106 113.538 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "d8a5f409-5e05-4fb6-bc72-f71ba59c76f7")
+	)
 	(text "Power and Decoupling"
 		(exclude_from_sim no)
 		(at 167.64 14.732 0)
@@ -16368,6 +16635,26 @@
 			)
 		)
 		(uuid "e6933832-e4ad-4a49-bfb8-dff045fb4bfb")
+	)
+	(text "DDR_BL2"
+		(exclude_from_sim no)
+		(at 87.122 173.482 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "e6c1ae06-9796-4b30-8fa8-94911ecfc84b")
+	)
+	(text "DDR_BL3"
+		(exclude_from_sim no)
+		(at 86.106 176.276 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+		)
+		(uuid "f27db45a-12e8-4616-bf06-1ce12efd9a02")
 	)
 	(label "DDR_BA0"
 		(at 339.09 100.33 0)
@@ -18271,6 +18558,1568 @@
 			(justify left bottom)
 		)
 		(uuid "ff17e067-c08e-4112-9be5-c9064b942d94")
+	)
+	(global_label "DDR_DQ9"
+		(shape input)
+		(at 88.9 27.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "03bfc742-19f3-4e71-b545-a36b0315be19")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.844 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DM0"
+		(shape input)
+		(at 91.44 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "092049c4-ad62-41fc-a991-ce105f4dfcef")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 98.4566 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ23"
+		(shape input)
+		(at 92.71 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "0926c490-7d30-4956-b795-6e7b509a21c2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.3797 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ30"
+		(shape input)
+		(at 93.98 144.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "0b6fb770-d7bb-4c20-ba2c-e22ff8cb18f0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.6497 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ8"
+		(shape input)
+		(at 88.9 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "0bf47bf4-d0a2-4642-952e-6ea8634af183")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.844 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A0"
+		(shape input)
+		(at 345.44 110.49 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "1714dacc-7647-4508-8024-b4cde06319a5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 345.44 104.4532 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_NRST"
+		(shape input)
+		(at 351.79 156.21 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "1cc58b7d-8574-4827-ab36-7843ed705e36")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 351.79 148.6854 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ27"
+		(shape input)
+		(at 93.98 152.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "1e02a6c8-65a4-43da-83fb-38295b594e67")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.6497 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A4"
+		(shape input)
+		(at 355.6 120.65 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "1f915c6a-ea1b-4fff-aa7d-c841ce139e85")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 355.6 114.6132 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A8"
+		(shape input)
+		(at 349.25 130.81 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "2481b926-762e-4feb-8a36-c61ad3f59e38")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 349.25 124.7732 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DM1"
+		(shape input)
+		(at 91.44 86.36 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "24841885-b266-4e37-87b7-18a3b0e28e24")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 98.4566 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQS0_P"
+		(shape input)
+		(at 91.44 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "285ab29f-e500-4703-bd1b-e778f1caeb0d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.4523 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A7"
+		(shape input)
+		(at 346.71 128.27 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "296aa874-236f-4b1d-8150-b1d759072841")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 346.71 122.2332 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQS3_N"
+		(shape input)
+		(at 93.98 170.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "2b9d69c2-808e-456f-9a46-18170a596d00")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.0286 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ17"
+		(shape input)
+		(at 92.71 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "2bd85461-6ac6-475c-ae35-e4d67dd69cbb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.3797 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQS3_P"
+		(shape input)
+		(at 93.98 167.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "30203e8b-0352-4d3d-8672-682f4023b314")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.9923 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A12"
+		(shape input)
+		(at 359.41 140.97 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "311ce4a7-c7c4-4988-961e-dc134fe92459")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 359.41 134.2075 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_NCS"
+		(shape input)
+		(at 346.71 87.63 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "36937649-afed-46b5-96e3-582d9d332e6c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 346.71 80.686 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A13"
+		(shape input)
+		(at 361.95 143.51 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "3874c05e-0a7b-4804-8afa-e99fe6081c10")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 361.95 136.7475 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A14"
+		(shape input)
+		(at 346.71 146.05 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "3b97ce4e-cf76-48c7-9b55-c6f565580ace")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 346.71 139.2875 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A10"
+		(shape input)
+		(at 354.33 135.89 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "3d15d804-2177-4298-815c-5d2e460cd760")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 354.33 129.1275 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DM3"
+		(shape input)
+		(at 95.25 177.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "3f544731-76ac-4097-8aa5-a394168e50ca")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.2666 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ4"
+		(shape input)
+		(at 90.17 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "4b5e957b-1f7f-4a61-baa3-9557d2bf390e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.114 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQS2_N"
+		(shape input)
+		(at 93.98 162.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "4bbd8bcb-db86-4a47-81b2-075d262ac1f9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.0286 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ19"
+		(shape input)
+		(at 92.71 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "4d3870bc-e27b-4203-a449-4b22e15594ff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.3797 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ13"
+		(shape input)
+		(at 88.9 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "4d6d9993-b68d-47a8-91ae-068e2a1410b3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.5697 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ18"
+		(shape input)
+		(at 92.71 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "5426bf9d-535a-474c-858c-6122492b01ed")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.3797 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ15"
+		(shape input)
+		(at 88.9 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "5f7f0253-2bc0-4c08-aad2-9d54f4de9866")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.5697 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A11"
+		(shape input)
+		(at 356.87 138.43 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "640e02d5-9d61-4164-abdb-8c76630c92ea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 356.87 131.6675 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ20"
+		(shape input)
+		(at 92.71 119.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "6a5a5eb1-779d-4178-af6d-e599030ab5b3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.3797 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ31"
+		(shape input)
+		(at 93.98 147.32 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "716ef7bc-8c0d-40c1-97c0-d6a9086c1c6e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.6497 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A2"
+		(shape input)
+		(at 350.52 115.57 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "7bc1e542-5963-4e2b-98f6-5dd7d8aff1c4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 350.52 109.5332 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_CK_N"
+		(shape input)
+		(at 353.06 80.01 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "7db2ea1a-7148-4127-b875-ddeda2ce04d7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 353.06 72.4491 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ21"
+		(shape input)
+		(at 92.71 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "8044dcd6-afbb-40db-be56-ef88938f70cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.3797 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_NRAS"
+		(shape input)
+		(at 349.25 90.17 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "8642bf71-b327-4fec-b1aa-a9d16a701453")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 349.25 82.5729 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_BA2"
+		(shape input)
+		(at 361.95 105.41 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "88d1f646-c283-4486-85ba-5fefba2084b7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 361.95 98.6112 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ1"
+		(shape input)
+		(at 90.17 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "8d431834-7476-4594-a884-6a0dabd250f4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.114 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQS1_P"
+		(shape input)
+		(at 90.17 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "913de9b2-fb13-4545-943e-47dbecb39235")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.1823 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_BA1"
+		(shape input)
+		(at 359.41 102.87 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "92f13dac-7572-4b01-b185-86aa5c870c28")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 359.41 96.0712 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DM2"
+		(shape input)
+		(at 95.25 175.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "9ac7d0c4-7bd1-4aa2-a89a-6679f7cb5dd4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.2666 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ5"
+		(shape input)
+		(at 90.17 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "9cd99ac7-4ff9-4042-bdb5-d3dc004208cb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.114 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ16"
+		(shape input)
+		(at 92.71 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "a260ddab-8143-4d1a-a112-2e11200fcc20")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.3797 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ22"
+		(shape input)
+		(at 92.71 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "a9d3a6bc-abb9-4635-a4b2-4447759acd52")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.3797 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ12"
+		(shape input)
+		(at 88.9 30.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "aa72020a-3315-4eaa-9b6c-33d6d52bd407")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.844 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ7"
+		(shape input)
+		(at 88.9 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "ab2c7d1c-6f67-4a83-8bd4-15ffa3e41d43")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.844 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A9"
+		(shape input)
+		(at 351.79 133.35 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "adcef4a2-facc-451f-9d44-c9f5ecf9bd9e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 351.79 127.3132 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_NCAS"
+		(shape input)
+		(at 351.79 92.71 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "b001afcf-3907-4845-b5dd-f5ee5fa2127e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 351.79 85.1129 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A5"
+		(shape input)
+		(at 358.14 123.19 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "b4066a9c-759c-4025-9ee2-32e297b80ed4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 358.14 117.1532 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ26"
+		(shape input)
+		(at 93.98 154.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "c0221e11-48d3-4594-b714-7dc64276aa04")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.6497 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A3"
+		(shape input)
+		(at 353.06 118.11 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "c0b1a1b6-7026-47d2-80d9-7aee84632399")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 353.06 112.0732 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQS0_N"
+		(shape input)
+		(at 91.44 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "c1ee11c7-5e93-439e-9020-f04e7f32dabe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.4886 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ25"
+		(shape input)
+		(at 92.71 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "c2aa68c8-912e-4f0e-b333-ee30a0046a17")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.3797 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A1"
+		(shape input)
+		(at 347.98 113.03 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "c44e5f45-1a1f-4bfd-aec4-7c6b3f6b80d9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 347.98 106.9932 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ24"
+		(shape input)
+		(at 93.98 149.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "c4722ee6-bfe5-42da-89b1-8a114b6d0b70")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.6497 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_NWE"
+		(shape input)
+		(at 354.33 95.25 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "c6d3a73a-96f3-4ab0-8e70-1a55fec10a14")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 354.33 88.2334 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_CK_P"
+		(shape input)
+		(at 350.52 77.47 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "cd0230df-d378-45db-8eec-6bdee63d2eb4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 350.52 69.9454 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_A6"
+		(shape input)
+		(at 360.68 125.73 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "cd9af8be-9463-4959-a7aa-529807b83a5d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 360.68 119.6932 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ3"
+		(shape input)
+		(at 90.17 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "cfd27289-a0b3-40dc-8a54-4ca48b567c9a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.114 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ2"
+		(shape input)
+		(at 90.17 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "d4d42ea7-9367-477e-88c7-67e54de5d85e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.114 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_BA0"
+		(shape input)
+		(at 356.87 100.33 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "d945c49f-903c-43f9-b684-452249965fc1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 356.87 93.5312 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ11"
+		(shape input)
+		(at 88.9 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "dd0951da-419d-40f5-865c-0795aa36e95d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.5697 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ0"
+		(shape input)
+		(at 90.17 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "e098e544-0e44-41b1-b9c7-8352cadda05e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.114 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ6"
+		(shape input)
+		(at 90.17 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "e395f3b0-57bf-4ce3-905b-9294139e29e8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.114 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQS1_N"
+		(shape input)
+		(at 90.17 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "e91e9c97-728d-4ab1-8041-66a73a314aea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.2186 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ28"
+		(shape input)
+		(at 93.98 139.7 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "eb1ee0f8-46f0-48ee-b78d-55be9c1ce545")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.6497 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ14"
+		(shape input)
+		(at 88.9 33.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "ed7a760b-6813-478a-9882-07877a643cbc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.844 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ10"
+		(shape input)
+		(at 88.9 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "efe33f9d-4399-4cd2-96a1-0eccd42abe02")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.5697 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQS2_P"
+		(shape input)
+		(at 93.98 160.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "f2c1ccac-00d0-4a90-b38f-dcf97da3c1d0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.9923 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_CKE"
+		(shape input)
+		(at 355.6 82.55 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "f2ea7b1a-f6c7-464b-952d-16ddbf8edda7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 355.6 75.6786 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_ODT"
+		(shape input)
+		(at 349.25 151.13 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "f43635e1-9c37-476c-a32d-917a1cea00e0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 349.25 144.3311 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DDR_DQ29"
+		(shape input)
+		(at 93.98 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "f856da1b-6a01-4277-9773-b5b952899d61")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.6497 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")

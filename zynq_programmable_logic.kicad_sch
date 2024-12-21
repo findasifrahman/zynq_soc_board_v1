@@ -9320,6 +9320,18 @@
 		(uuid 6b8f8ad6-5789-4c1c-9ee3-0c358e0d4f5c)
 	)
 	(rectangle
+		(start 238.76 40.64)
+		(end 254 157.48)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 98aaa370-8122-425c-8fdd-dab6ae545e4d)
+	)
+	(rectangle
 		(start 90.17 59.69)
 		(end 114.3 160.02)
 		(stroke
@@ -9344,6 +9356,16 @@
 		)
 		(uuid "7571593f-30f3-4349-b1e1-d673e37b385a")
 	)
+	(text "BANK34"
+		(exclude_from_sim no)
+		(at 108.712 58.928 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "806bdbdc-5621-4b46-bfb7-d9b350692bf5")
+	)
 	(text "Diff Pair"
 		(exclude_from_sim no)
 		(at 111.506 161.798 0)
@@ -9365,6 +9387,16 @@
 			)
 		)
 		(uuid "ec719ee1-99ad-4b10-85e0-02f3d5dcc3f4")
+	)
+	(text "BANK35"
+		(exclude_from_sim no)
+		(at 245.618 39.116 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f26d0089-c311-4b3c-b806-57b53f0b81f7")
 	)
 	(label "LED_PL_A"
 		(at 154.94 40.64 0)
@@ -9785,7 +9817,7 @@
 		)
 		(uuid "45b33607-8d9f-467e-8642-edee710abf14")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 270.6004 88.9 0)
+			(at 270.1244 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9900,7 +9932,7 @@
 		)
 		(uuid "54c534dc-cfd3-4281-9764-69dfec4a865b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 108.7661 62.23 0)
+			(at 108.2901 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10176,7 +10208,7 @@
 		)
 		(uuid "97edc391-d0ea-418b-acc5-5647f8d70901")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 263.6335 154.94 0)
+			(at 263.1575 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)

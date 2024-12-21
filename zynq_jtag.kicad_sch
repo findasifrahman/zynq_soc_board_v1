@@ -20241,7 +20241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "easyeda2kicad_foorprint:SOD-323_L1.8-W1.3-LS2.5-RD"
 			(at 307.34 67.945 0)
 			(effects
 				(font
