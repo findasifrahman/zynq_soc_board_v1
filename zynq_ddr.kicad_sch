@@ -20778,7 +20778,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:BGA96C80P9X16_900X1300X120"
+		(property "Footprint" "easyeda2kicad_foorprint:FBGA-96_L14.0-W8.0-R16-C6-P0.80-TL"
 			(at 185.42 30.48 0)
 			(effects
 				(font
@@ -20982,6 +20982,24 @@
 					(size 1.8288 1.8288)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C367428"
+			(at 185.42 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MT41K256M16TW-107 IT:P"
+			(at 185.42 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -23150,7 +23168,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:BGA96C80P9X16_900X1300X120"
+		(property "Footprint" "easyeda2kicad_foorprint:FBGA-96_L14.0-W8.0-R16-C6-P0.80-TL"
 			(at 189.23 100.33 0)
 			(effects
 				(font
@@ -23354,6 +23372,24 @@
 					(size 1.8288 1.8288)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C367428"
+			(at 189.23 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MT41K256M16TW-107 IT:P"
+			(at 189.23 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -27482,7 +27518,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:BGA96C80P9X16_900X1300X120"
+		(property "Footprint" "easyeda2kicad_foorprint:FBGA-96_L14.0-W8.0-R16-C6-P0.80-TL"
 			(at 203.2 195.58 0)
 			(effects
 				(font
@@ -27686,6 +27722,24 @@
 					(size 1.8288 1.8288)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C367428"
+			(at 203.2 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MT41K256M16TW-107 IT:P"
+			(at 203.2 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -30103,7 +30157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:BGA96C80P9X16_900X1300X120"
+		(property "Footprint" "easyeda2kicad_foorprint:FBGA-96_L14.0-W8.0-R16-C6-P0.80-TL"
 			(at 50.8 25.4 0)
 			(effects
 				(font
@@ -30307,6 +30361,24 @@
 					(size 1.8288 1.8288)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C367428"
+			(at 50.8 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MT41K256M16TW-107 IT:P"
+			(at 50.8 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -30633,7 +30705,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:BGA96C80P9X16_900X1300X120"
+		(property "Footprint" "easyeda2kicad_foorprint:FBGA-96_L14.0-W8.0-R16-C6-P0.80-TL"
 			(at 199.39 125.73 0)
 			(effects
 				(font
@@ -30837,6 +30909,24 @@
 					(size 1.8288 1.8288)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C367428"
+			(at 199.39 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MT41K256M16TW-107 IT:P"
+			(at 199.39 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -32358,7 +32448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:BGA96C80P9X16_900X1300X120"
+		(property "Footprint" "easyeda2kicad_foorprint:FBGA-96_L14.0-W8.0-R16-C6-P0.80-TL"
 			(at 54.61 114.3 0)
 			(effects
 				(font
@@ -32562,6 +32652,24 @@
 					(size 1.8288 1.8288)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C367428"
+			(at 54.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "MT41K256M16TW-107 IT:P"
+			(at 54.61 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

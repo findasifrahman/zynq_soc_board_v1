@@ -19083,7 +19083,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MTFC8GAKAJCN-4M_IT:BGA153N50P14X14_1150X1300X100"
+		(property "Footprint" "easyeda2kicad_foorprint:FBGA-153_L13.0-W11.5-P0.50_KLMAG1JETD-B041"
 			(at 339.09 153.67 0)
 			(effects
 				(font

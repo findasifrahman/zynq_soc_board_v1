@@ -11019,7 +11019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:QFN-40-0.4-EP"
+		(property "Footprint" "easyeda2kicad_foorprint:WQFN-40_L5.0-W5.0-P0.4-BL-EP"
 			(at 148.59 99.06 0)
 			(effects
 				(font
@@ -11063,6 +11063,15 @@
 					(size 1.8288 1.8288)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C187932"
+			(at 148.59 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
