@@ -13345,16 +13345,6 @@
 	)
 	(wire
 		(pts
-			(xy 444.5 134.62) (xy 433.07 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e677155-85fa-4dbe-93d4-45ba524a84cd")
-	)
-	(wire
-		(pts
 			(xy 129.54 156.21) (xy 129.54 158.75)
 		)
 		(stroke
@@ -14262,6 +14252,16 @@
 			(type default)
 		)
 		(uuid "82f57582-f314-468f-babb-74818c3f5d91")
+	)
+	(wire
+		(pts
+			(xy 433.07 134.62) (xy 444.5 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84a39eb5-da62-4fc4-8a48-3af4a397e3a2")
 	)
 	(wire
 		(pts
@@ -15855,19 +15855,6 @@
 		)
 		(uuid "8b33fe75-dab3-4254-9fee-e16670b24fe0")
 	)
-	(label "FTDI_TX"
-		(at 436.88 132.08 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "91f1d9d4-8d5f-4b42-a57c-893f2d9be82e")
-	)
 	(label "USB_FTDI_D_N"
 		(at 311.15 104.14 0)
 		(fields_autoplaced yes)
@@ -16077,19 +16064,6 @@
 		)
 		(uuid "e74b8440-891f-4af6-a894-a7920070803d")
 	)
-	(label "FTDI_RX"
-		(at 436.88 134.62 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.762 0.762)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "ee1d330c-7e57-41cb-a776-e891b366877c")
-	)
 	(label "TMS_0"
 		(at 60.96 50.8 0)
 		(fields_autoplaced yes)
@@ -16125,6 +16099,30 @@
 			(justify left bottom)
 		)
 		(uuid "fddb9d82-b8c1-4a5a-9d09-4f6b0750596d")
+	)
+	(global_label "FTDI_RX"
+		(shape input)
+		(at 441.96 134.62 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify right)
+		)
+		(uuid "042c1c27-9bef-4a7e-8c53-c2714b3ef140")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 441.96 141.3143 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "TDI_0"
 		(shape bidirectional)
@@ -16361,6 +16359,30 @@
 		(uuid "515f8171-652f-4748-a475-67897f317916")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 167.7424 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FTDI_TX"
+		(shape input)
+		(at 441.96 132.08 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "5db9b901-f9da-426c-91f5-9ca203154d67")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 441.96 125.5671 90)
 			(effects
 				(font
 					(size 1.27 1.27)

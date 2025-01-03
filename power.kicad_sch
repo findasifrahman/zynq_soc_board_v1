@@ -12664,7 +12664,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_2010_5025Metric"
 			(at 38.1 168.148 90)
 			(effects
 				(font

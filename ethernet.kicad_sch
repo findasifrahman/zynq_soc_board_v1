@@ -4805,7 +4805,7 @@
 			)
 		)
 	)
-	(global_label "MDI4_N"
+	(global_label "MDI3_N"
 		(shape input)
 		(at 227.33 93.98 90)
 		(fields_autoplaced yes)
