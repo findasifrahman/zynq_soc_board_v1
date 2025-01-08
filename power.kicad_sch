@@ -6303,19 +6303,6 @@
 		)
 		(uuid "01edbe64-75c4-47f8-97a5-a2aba248e6ea")
 	)
-	(label "LED_PWR_K"
-		(at 154.94 215.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.508 0.508)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "0551a55e-0b04-4412-9b54-208159efcba3")
-	)
 	(label "DDR_VTT_VDDQ"
 		(at 53.34 129.54 0)
 		(fields_autoplaced yes)
@@ -6341,19 +6328,6 @@
 			(justify left bottom)
 		)
 		(uuid "1c08a47c-c12a-4f5a-8bc2-7bc17ec771f0")
-	)
-	(label "LED_PWR_A"
-		(at 154.94 201.93 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.508 0.508)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "23a6ba40-eeb4-4d18-bbb2-288dcc72f0b9")
 	)
 	(label "PG_1V35"
 		(at 203.2 167.64 0)
@@ -6625,6 +6599,28 @@
 			)
 		)
 	)
+	(global_label "LED_PWR_A"
+		(shape input)
+		(at 154.94 201.93 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify right)
+		)
+		(uuid "2b14c9bc-e6fb-45bb-8f6f-9927c76f43df")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.8711 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PG_1V0"
 		(shape input)
 		(at 200.66 50.8 90)
@@ -6643,6 +6639,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED_PWR_K"
+		(shape input)
+		(at 154.94 214.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify right)
+		)
+		(uuid "44fe4e3e-1d0d-4d9c-b329-e1412039db8c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.7622 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -8106,7 +8124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:DFN3x3_10L"
+		(property "Footprint" "easyeda2kicad_foorprint:TDFN-10_L3.0-W3.0-P0.50-BL-EP-2.3-1"
 			(at 87.63 52.07 0)
 			(effects
 				(font
@@ -8153,7 +8171,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" " C6653278"
+		(property "LCSC" "C6653278"
 			(at 87.63 52.07 0)
 			(effects
 				(font
@@ -9226,7 +9244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "easyeda2kicad_foorprint:SOD-323_L1.8-W1.3-LS2.5-RD"
 			(at 49.53 34.925 0)
 			(effects
 				(font
@@ -10404,7 +10422,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "easyeda2kicad_foorprint:C2211"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 41.91 174.2948 0)
 			(effects
 				(font
@@ -10431,7 +10449,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C91599"
+		(property "LCSC" "C107211"
 			(at 38.1 175.26 0)
 			(effects
 				(font
@@ -10440,7 +10458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "GA352QR7GF102KW01L"
+		(property "Manufacturer Part Number" "CC1206KRX7RYBB102"
 			(at 38.1 175.26 0)
 			(effects
 				(font
@@ -12664,7 +12682,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_2010_5025Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 38.1 168.148 90)
 			(effects
 				(font
@@ -12751,7 +12769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:MSOP8"
+		(property "Footprint" "easyeda2kicad_foorprint:MSOP-8_L2.9-W2.8-P0.65-LS4.0-BL"
 			(at 73.66 121.92 0)
 			(effects
 				(font

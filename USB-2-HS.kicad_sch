@@ -4557,7 +4557,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-323F"
+		(property "Footprint" "easyeda2kicad_foorprint:SOD-323_L1.8-W1.3-LS2.5-RD"
 			(at 183.515 132.08 0)
 			(effects
 				(font
@@ -4946,7 +4946,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:QFN-32-5x5x0.85mm"
+		(property "Footprint" "easyeda2kicad_foorprint:QFN-32_L5.0-W5.0-P0.50-BL-EP3.4"
 			(at 128.27 86.36 0)
 			(effects
 				(font
@@ -5857,7 +5857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TMLF-6-1_6X1_6"
+		(property "Footprint" "easyeda2kicad_foorprint:UDFN-6_L1.6-W1.6-P0.50-BL-EP1.2"
 			(at 156.21 154.94 0)
 			(effects
 				(font
@@ -5901,6 +5901,15 @@
 					(size 1.8288 1.8288)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C621527"
+			(at 156.21 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

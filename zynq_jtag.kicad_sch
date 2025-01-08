@@ -20138,7 +20138,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:SOIC-8"
+		(property "Footprint" "easyeda2kicad_foorprint:SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL"
 			(at 288.29 165.1 0)
 			(effects
 				(font
@@ -21909,7 +21909,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:LQFP-64-0.5mm"
+		(property "Footprint" "easyeda2kicad_foorprint:LQFP-64_L10.0-W10.0-P0.50-LS12.0-TL"
 			(at 392.43 134.62 0)
 			(effects
 				(font
@@ -25084,7 +25084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:SKRPANE010"
+		(property "Footprint" "easyeda2kicad_foorprint:SW-SMD_4P-L4.2-W3.2-P2.15-LS4.6-2"
 			(at 173.99 69.85 0)
 			(effects
 				(font
