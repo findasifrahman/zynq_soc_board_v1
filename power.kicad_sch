@@ -3521,6 +3521,12 @@
 		(uuid "d3f70b0f-f4d5-4c6b-897a-54e9d8db47a0")
 	)
 	(junction
+		(at 49.53 212.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d92560d4-33d9-4ad6-9c6e-44522117feab")
+	)
+	(junction
 		(at 186.69 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3804,6 +3810,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 203.2) (xy 41.91 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f24c448-31c5-47b7-92cb-22d2c55dd0fd")
+	)
+	(wire
+		(pts
 			(xy 180.34 50.8) (xy 180.34 40.64)
 		)
 		(stroke
@@ -3914,6 +3930,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 203.2) (xy 41.91 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1efb93b8-8ea6-4756-9256-3830e8d60516")
+	)
+	(wire
+		(pts
 			(xy 271.78 31.75) (xy 262.89 31.75)
 		)
 		(stroke
@@ -3984,6 +4010,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 212.09) (xy 55.88 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2570f797-b47a-4cd1-b8a5-807c1ad52424")
+	)
+	(wire
+		(pts
 			(xy 234.95 175.26) (xy 234.95 177.8)
 		)
 		(stroke
@@ -4021,6 +4057,16 @@
 			(type default)
 		)
 		(uuid "2a6cc278-4b1e-49b5-8df5-8e38af8dc35e")
+	)
+	(wire
+		(pts
+			(xy 49.53 212.09) (xy 49.53 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a864359-3415-4e27-ad1a-dba9f199858f")
 	)
 	(wire
 		(pts
@@ -4491,6 +4537,16 @@
 			(type default)
 		)
 		(uuid "55b34b41-76c4-4d57-a69b-ec9a8bbc89cd")
+	)
+	(wire
+		(pts
+			(xy 41.91 212.09) (xy 49.53 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57ec3f75-d65b-4f3c-a5f0-cef84c0434a8")
 	)
 	(wire
 		(pts
@@ -5581,6 +5637,16 @@
 			(type default)
 		)
 		(uuid "c1d4ae03-a43b-4d12-a54a-a92a4f1ddee0")
+	)
+	(wire
+		(pts
+			(xy 49.53 212.09) (xy 55.88 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2559c28-de2e-4692-8211-d308b236e917")
 	)
 	(wire
 		(pts
@@ -12206,6 +12272,71 @@
 			(project "zynq_soc_board_v1"
 				(path "/068a81e1-1783-4521-9958-788ddeed3b49/e904f396-2c60-426f-aecf-389e552b5c3a"
 					(reference "C114")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
+		(at 49.53 218.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9f3bbfbc-76c1-4127-8fba-5e7951f91391")
+		(property "Reference" "#PWR074"
+			(at 49.53 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "CGND"
+			(at 49.53 222.504 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 49.53 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 49.53 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8f6bf481-c451-4e26-9e07-4f5b35222fe3")
+		)
+		(instances
+			(project "zynq_soc_board_v1"
+				(path "/068a81e1-1783-4521-9958-788ddeed3b49/e904f396-2c60-426f-aecf-389e552b5c3a"
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)

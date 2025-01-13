@@ -6784,7 +6784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprint-Lib-PhilsLab:XTAL_2520"
+		(property "Footprint" "Crystal:Crystal_SMD_2520-4Pin_2.5x2.0mm"
 			(at 43.18 104.14 0)
 			(effects
 				(font
