@@ -5680,7 +5680,7 @@
 	)
 	(wire
 		(pts
-			(xy 293.37 201.93) (xy 293.37 203.2)
+			(xy 293.37 200.66) (xy 293.37 203.2)
 		)
 		(stroke
 			(width 0)
@@ -13165,7 +13165,7 @@
 	)
 	(symbol
 		(lib_id "power:+1V0")
-		(at 293.37 201.93 0)
+		(at 293.37 200.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13174,7 +13174,7 @@
 		(fields_autoplaced yes)
 		(uuid "b4a079e3-0268-4388-90a4-c6488a3d9727")
 		(property "Reference" "#PWR026"
-			(at 293.37 205.74 0)
+			(at 293.37 204.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13183,7 +13183,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 293.37 196.85 0)
+			(at 293.37 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13191,7 +13191,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 293.37 201.93 0)
+			(at 293.37 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13200,7 +13200,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 201.93 0)
+			(at 293.37 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13209,7 +13209,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V0\""
-			(at 293.37 201.93 0)
+			(at 293.37 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
